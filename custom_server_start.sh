@@ -11,6 +11,8 @@ echo "Starting server PRESS CTRL-C to exit"
 ./valheim_server.x86_64 -name "BonkTown" -port 2456 -world "BonkTown" -password "buttstuff42069" -logFile log.txt -savedir /home/steam/valheimsave -public 0 -modifier raids less -modifier resources muchmore -modifier portals casual -modifier deathpenalty casual -modifier combat easy &
 server_pid=$!
 
+echo "$server_pid"
+
 export LD_LIBRARY_PATH=$templdpath
 # Function to catch signals and forward them
 stop_server() {
