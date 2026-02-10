@@ -12,7 +12,6 @@ echo "Starting server PRESS CTRL-C to exit"
 server_pid=$!
 
 export LD_LIBRARY_PATH=$templdpath
-
 # Function to catch signals and forward them
 stop_server() {
     echo "Stopping Valheim server gracefully..."
