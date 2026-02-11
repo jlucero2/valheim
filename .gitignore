@@ -9,3 +9,4 @@ start_server_xterm.sh
 steam_appid.txt
 *.x86_64
 valheim_server_Data
+doorstop_libs
