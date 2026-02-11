@@ -15,90 +15,90 @@
 [Info   :   BepInEx] 1 plugin to load
 [Info   :   BepInEx] Loading [ServersideQoL 1.7.0]
 [Message:   BepInEx] Chainloader startup complete
-[Info   : Unity Log] 02/11/2026 19:03:45: Set background loading budget to Low
+[Info   : Unity Log] 02/11/2026 19:08:06: Set background loading budget to Low
 
-[Info   : Unity Log] 02/11/2026 19:03:45: Loading first scene!
+[Info   : Unity Log] 02/11/2026 19:08:06: Loading first scene!
 
-[Info   : Unity Log] 02/11/2026 19:03:45: Preferences initialized! Activating first scene!
+[Info   : Unity Log] 02/11/2026 19:08:06: Preferences initialized! Activating first scene!
 
-[Error  : Unity Log] 02/11/2026 19:03:45: Can't return the graphics config when it's not loaded!
+[Error  : Unity Log] 02/11/2026 19:08:06: Can't return the graphics config when it's not loaded!
 
-[Info   : Unity Log] 02/11/2026 19:03:45: 
+[Info   : Unity Log] 02/11/2026 19:08:06: 
 
-[Info   : Unity Log] 02/11/2026 19:03:45: Starting to load scene:start.unity (169d7618616154c03be07e9ad3af5893)
+[Info   : Unity Log] 02/11/2026 19:08:06: Starting to load scene:start.unity (169d7618616154c03be07e9ad3af5893)
 
-[Info   : Unity Log] 02/11/2026 19:03:45: Set background loading budget to Normal
+[Info   : Unity Log] 02/11/2026 19:08:06: Set background loading budget to Normal
 
-[Info   : Unity Log] 02/11/2026 19:03:45: Loaded localization file #0 - 'localization' language: 'English'
+[Info   : Unity Log] 02/11/2026 19:08:06: Loaded localization file #0 - 'localization' language: 'English'
 
-[Info   : Unity Log] 02/11/2026 19:03:45: Loaded localization file #1 - 'localization_extra' language: 'English'
+[Info   : Unity Log] 02/11/2026 19:08:06: Loaded localization file #1 - 'localization_extra' language: 'English'
 
-[Info   : Unity Log] 02/11/2026 19:03:45: Loaded localization file #2 - 'heightmap_message' language: 'English'
+[Info   : Unity Log] 02/11/2026 19:08:06: Loaded localization file #2 - 'heightmap_message' language: 'English'
 
-[Info   : Unity Log] 02/11/2026 19:03:45: Loaded localization file #3 - 'localization_witch' language: 'English'
+[Info   : Unity Log] 02/11/2026 19:08:06: Loaded localization file #3 - 'localization_witch' language: 'English'
 
-[Info   : Unity Log] 02/11/2026 19:03:45: Loaded localization file #4 - 'localization_ashlands' language: 'English'
+[Info   : Unity Log] 02/11/2026 19:08:06: Loaded localization file #4 - 'localization_ashlands' language: 'English'
 
-[Info   : Unity Log] 02/11/2026 19:03:45: Loaded localization file #5 - 'localization_captions' language: 'English'
+[Info   : Unity Log] 02/11/2026 19:08:06: Loaded localization file #5 - 'localization_captions' language: 'English'
 
-[Info   : Unity Log] 02/11/2026 19:03:45: Loaded localization file #6 - 'localization_combatupdate' language: 'English'
+[Info   : Unity Log] 02/11/2026 19:08:06: Loaded localization file #6 - 'localization_combatupdate' language: 'English'
 
-[Info   : Unity Log] 02/11/2026 19:03:45: Loaded localization file #7 - 'localization_celebrationupdate' language: 'English'
+[Info   : Unity Log] 02/11/2026 19:08:06: Loaded localization file #7 - 'localization_celebrationupdate' language: 'English'
 
 [Error  : Unity Log] AsyncResourceUpload failed.
 [Error  : Unity Log] AsyncResourceUpload failed.
-[Info   : Unity Log] 02/11/2026 19:03:49: Set background loading budget to High
+[Info   : Unity Log] 02/11/2026 19:08:10: Set background loading budget to High
 
-[Info   : Unity Log] 02/11/2026 19:03:49: GPU Device: 0000:0000 (Unknown)
+[Info   : Unity Log] 02/11/2026 19:08:10: GPU Device: 0000:0000 (Unknown)
 
-[Info   : Unity Log] 02/11/2026 19:03:55: Set background loading budget to Low
+[Info   : Unity Log] 02/11/2026 19:08:16: Set background loading budget to Low
 
 [Warning: Unity Log] HDR Render Texture not supported, disabling HDR on reflection probe.
-[Warning: Unity Log] 02/11/2026 19:03:55: Missing audio clip in music respawn
+[Warning: Unity Log] 02/11/2026 19:08:16: Missing audio clip in music respawn
 
-[Info   : Unity Log] 02/11/2026 19:03:55: Setting -logfile to: log.txt
+[Info   : Unity Log] 02/11/2026 19:08:16: Setting -logfile to: log.txt
 
-[Info   : Unity Log] 02/11/2026 19:03:55: Setting -savedir to: /home/steam/valheimsave
+[Info   : Unity Log] 02/11/2026 19:08:16: Setting -savedir to: /home/steam/valheimsave
 
-[Info   : Unity Log] 02/11/2026 19:03:55: Get create world BonkTown
+[Info   : Unity Log] 02/11/2026 19:08:16: Get create world BonkTown
 
-[Info   : Unity Log] 02/11/2026 19:03:55: Setting world modifier: raids->less
+[Info   : Unity Log] 02/11/2026 19:08:16: Setting world modifier: raids->less
 
-[Info   : Unity Log] 02/11/2026 19:03:55: Setting world modifier: resources->muchmore
+[Info   : Unity Log] 02/11/2026 19:08:16: Setting world modifier: resources->muchmore
 
-[Info   : Unity Log] 02/11/2026 19:03:55: Setting world modifier: portals->casual
+[Info   : Unity Log] 02/11/2026 19:08:16: Setting world modifier: portals->casual
 
-[Info   : Unity Log] 02/11/2026 19:03:55: Setting world modifier: deathpenalty->casual
+[Info   : Unity Log] 02/11/2026 19:08:16: Setting world modifier: deathpenalty->casual
 
-[Info   : Unity Log] 02/11/2026 19:03:55: Setting world modifier: combat->easy
+[Info   : Unity Log] 02/11/2026 19:08:16: Setting world modifier: combat->easy
 
-[Info   : Unity Log] 02/11/2026 19:03:55: Using environment steamid 892970
+[Info   : Unity Log] 02/11/2026 19:08:16: Using environment steamid 892970
 
-[Info   : Unity Log] 02/11/2026 19:03:55: Using steam APPID:892970
+[Info   : Unity Log] 02/11/2026 19:08:16: Using steam APPID:892970
 
-[Info   : Unity Log] 02/11/2026 19:03:55: Server ID 90071992547409920
+[Info   : Unity Log] 02/11/2026 19:08:16: Server ID 90071992547409920
 
-[Info   : Unity Log] 02/11/2026 19:03:55: Authentication:k_ESteamNetworkingAvailability_Waiting
+[Info   : Unity Log] 02/11/2026 19:08:16: Authentication:k_ESteamNetworkingAvailability_Waiting
 
-[Info   : Unity Log] 02/11/2026 19:03:55: Steam game server initialized
+[Info   : Unity Log] 02/11/2026 19:08:16: Steam game server initialized
 
-[Info   : Unity Log] 02/11/2026 19:03:55: Valheim version: l-0.221.10 (network version 36)
+[Info   : Unity Log] 02/11/2026 19:08:16: Valheim version: l-0.221.10 (network version 36)
 
-[Info   : Unity Log] 02/11/2026 19:03:55: Worldgenerator version setup:2
+[Info   : Unity Log] 02/11/2026 19:08:16: Worldgenerator version setup:2
 
-[Info   : Unity Log] 02/11/2026 19:03:55: Console: Valheim l-0.221.10 (network version 36)
+[Info   : Unity Log] 02/11/2026 19:08:16: Console: Valheim l-0.221.10 (network version 36)
 
-[Info   : Unity Log] 02/11/2026 19:03:55: Console: 
+[Info   : Unity Log] 02/11/2026 19:08:16: Console: 
 
-[Info   : Unity Log] 02/11/2026 19:03:55: Console: type "help" - for commands
+[Info   : Unity Log] 02/11/2026 19:08:16: Console: type "help" - for commands
 
-[Info   : Unity Log] 02/11/2026 19:03:55: Console: 
+[Info   : Unity Log] 02/11/2026 19:08:16: Console: 
 
-[Info   : Unity Log] 02/11/2026 19:03:55: Render threading mode:SingleThreaded
+[Info   : Unity Log] 02/11/2026 19:08:16: Render threading mode:SingleThreaded
 
-[Info   : Unity Log] 02/11/2026 19:03:55: Sending PlayFab login request (attempt 1)
+[Info   : Unity Log] 02/11/2026 19:08:16: Sending PlayFab login request (attempt 1)
 
-[Info   : Unity Log] 02/11/2026 19:03:55: Login postponed until ID has been set.
+[Info   : Unity Log] 02/11/2026 19:08:16: Login postponed until ID has been set.
 
 [Info   : Unity Log] The shader Hidden/Dof/DepthOfFieldHdr (UnityEngine.Shader) on effect Main Camera (UnityStandardAssets.ImageEffects.DepthOfField) is not supported on this platform!
 [Warning: Unity Log] The image effect Main Camera (UnityStandardAssets.ImageEffects.DepthOfField) has been disabled as it's not supported on the current platform.
@@ -112,304 +112,476 @@ PlayFab.Party.PlayFabMultiplayerManager.InitializeImpl () (at <3fe1c61dd78d4a2da
 PlayFab.Party.PlayFabMultiplayerManager._Initialize () (at <3fe1c61dd78d4a2da22a92605f34ab1e>:0)
 PlayFab.Party.PlayFabMultiplayerManager.Start () (at <3fe1c61dd78d4a2da22a92605f34ab1e>:0)
 
-[Info   : Unity Log] 02/11/2026 19:03:55: Starting music menu
+[Info   : Unity Log] 02/11/2026 19:08:16: Starting music menu
 
 [Warning: Unity Log] HDR Render Texture not supported, disabling HDR on reflection probe.
 [Warning: Unity Log] HDR Render Texture not supported, disabling HDR on reflection probe.
-[Info   : Unity Log] 02/11/2026 19:03:56: Audioman already exist, destroying self
+[Info   : Unity Log] 02/11/2026 19:08:17: Audioman already exist, destroying self
 
-[Info   : Unity Log] 02/11/2026 19:03:56: Console: Valheim l-0.221.10 (network version 36)
+[Info   : Unity Log] 02/11/2026 19:08:17: Console: Valheim l-0.221.10 (network version 36)
 
-[Info   : Unity Log] 02/11/2026 19:03:56: Console: 
+[Info   : Unity Log] 02/11/2026 19:08:17: Console: 
 
-[Info   : Unity Log] 02/11/2026 19:03:56: Console: type "help" - for commands
+[Info   : Unity Log] 02/11/2026 19:08:17: Console: type "help" - for commands
 
-[Info   : Unity Log] 02/11/2026 19:03:56: Console: 
+[Info   : Unity Log] 02/11/2026 19:08:17: Console: 
 
-[Info   : Unity Log] 02/11/2026 19:03:56: isModded: True
+[Info   : Unity Log] 02/11/2026 19:08:17: isModded: True
 
-[Info   : Unity Log] 02/11/2026 19:03:56: Zonesystem Awake 22474
+[Info   : Unity Log] 02/11/2026 19:08:17: Zonesystem Awake 22481
 
-[Info   : Unity Log] 02/11/2026 19:03:56: DungeonDB Awake 22474
+[Info   : Unity Log] 02/11/2026 19:08:17: DungeonDB Awake 22481
 
-[Info   : Unity Log] 02/11/2026 19:03:56: Worldgenerator version setup:2
+[Info   : Unity Log] 02/11/2026 19:08:17: Worldgenerator version setup:2
 
-[Info   : Unity Log] 02/11/2026 19:03:57: Console: /w [text] - Whisper
+[Info   : Unity Log] 02/11/2026 19:08:18: Console: /w [text] - Whisper
 
-[Info   : Unity Log] 02/11/2026 19:03:57: Console: /s [text] - Shout
+[Info   : Unity Log] 02/11/2026 19:08:18: Console: /s [text] - Shout
 
-[Info   : Unity Log] 02/11/2026 19:03:57: Console: /die - Kill yourself
+[Info   : Unity Log] 02/11/2026 19:08:18: Console: /die - Kill yourself
 
-[Info   : Unity Log] 02/11/2026 19:03:57: Console: /resetspawn - Reset spawn point
+[Info   : Unity Log] 02/11/2026 19:08:18: Console: /resetspawn - Reset spawn point
 
-[Info   : Unity Log] 02/11/2026 19:03:57: Console: /[emote]
+[Info   : Unity Log] 02/11/2026 19:08:18: Console: /[emote]
 
-[Info   : Unity Log] 02/11/2026 19:03:57: Console: Emotes: wave, sit, challenge, cheer, nonono, thumbsup, point, blowkiss, bow, cower, cry, despair, flex, comehere, headbang, kneel, laugh, roar, shrug, dance, relax, toast, rest, vibe, loveyou
+[Info   : Unity Log] 02/11/2026 19:08:18: Console: Emotes: wave, sit, challenge, cheer, nonono, thumbsup, point, blowkiss, bow, cower, cry, despair, flex, comehere, headbang, kneel, laugh, roar, shrug, dance, relax, toast, rest, vibe, loveyou
 
-[Info   : Unity Log] 02/11/2026 19:03:57: Console: 
+[Info   : Unity Log] 02/11/2026 19:08:18: Console: 
 
-[Info   : Unity Log] 02/11/2026 19:03:57: Zonesystem Start 22474
+[Info   : Unity Log] 02/11/2026 19:08:18: Zonesystem Start 22481
 
-[Info   : Unity Log] 02/11/2026 19:03:57: Added 3 locations, 0 vegetations, 0 environments, 0 biome env-setups, 0 clutter  from main
+[Info   : Unity Log] 02/11/2026 19:08:18: Added 3 locations, 0 vegetations, 0 environments, 0 biome env-setups, 0 clutter  from main
 
-[Info   : Unity Log] 02/11/2026 19:03:57: Added 1 locations, 0 vegetations, 2 environments, 0 biome env-setups, 0 clutter  from main
+[Info   : Unity Log] 02/11/2026 19:08:18: Added 1 locations, 0 vegetations, 2 environments, 0 biome env-setups, 0 clutter  from main
 
-[Info   : Unity Log] 02/11/2026 19:03:57: Added 27 locations, 25 vegetations, 5 environments, 1 biome env-setups, 3 clutter  from main
+[Info   : Unity Log] 02/11/2026 19:08:18: Added 27 locations, 25 vegetations, 5 environments, 1 biome env-setups, 3 clutter  from main
 
-[Info   : Unity Log] 02/11/2026 19:03:57: Added 4 locations, 0 vegetations, 1 environments, 0 biome env-setups, 0 clutter  from main
+[Info   : Unity Log] 02/11/2026 19:08:18: Added 4 locations, 0 vegetations, 1 environments, 0 biome env-setups, 0 clutter  from main
 
-[Info   : Unity Log] 02/11/2026 19:03:57: Added 25 locations, 33 vegetations, 8 environments, 2 biome env-setups, 2 clutter  from main
+[Info   : Unity Log] 02/11/2026 19:08:18: Added 25 locations, 33 vegetations, 8 environments, 2 biome env-setups, 2 clutter  from main
 
-[Info   : Unity Log] 02/11/2026 19:03:57: DungeonDB Start 22474
+[Info   : Unity Log] 02/11/2026 19:08:18: DungeonDB Start 22481
 
-[Info   : Unity Log] 02/11/2026 19:03:57: ZRpc timeout set to 30s 
+[Info   : Unity Log] 02/11/2026 19:08:18: ZRpc timeout set to 30s 
 
-[Info   : Unity Log] 02/11/2026 19:03:57: ZNET START
+[Info   : Unity Log] 02/11/2026 19:08:18: ZNET START
 
-[Info   : Unity Log] 02/11/2026 19:03:57: Load world: BonkTown (BonkTown)
+[Info   : Unity Log] 02/11/2026 19:08:18: Load world: BonkTown (BonkTown)
 
-[Info   : Unity Log] 02/11/2026 19:03:57: Loading 84900 zdos, my sessionID: 2022692526, data version: 37
+[Info   : Unity Log] 02/11/2026 19:08:18: Loading 84900 zdos, my sessionID: 1845323713, data version: 37
 
-[Info   : Unity Log] 02/11/2026 19:03:57: Loading in ZDOs
+[Info   : Unity Log] 02/11/2026 19:08:18: Loading in ZDOs
 
-[Info   : Unity Log] 02/11/2026 19:03:57: Adding to Dictionary
+[Info   : Unity Log] 02/11/2026 19:08:18: Adding to Dictionary
 
-[Info   : Unity Log] 02/11/2026 19:03:57: Adding to Sectors
+[Info   : Unity Log] 02/11/2026 19:08:18: Adding to Sectors
 
-[Info   : Unity Log] 02/11/2026 19:03:57: Connecting Portals, Spawners & ZSyncTransforms
+[Info   : Unity Log] 02/11/2026 19:08:18: Connecting Portals, Spawners & ZSyncTransforms
 
 [Info   : Unity Log] ConnectSpawners => Connected 20 spawners and 76 'done' spawners.
-[Info   : Unity Log] 02/11/2026 19:03:58: Loaded 11424 locations
+[Info   : Unity Log] 02/11/2026 19:08:18: Loaded 11424 locations
 
-[Info   : Unity Log] 02/11/2026 19:03:58: Unloading unused assets
+[Info   : Unity Log] 02/11/2026 19:08:18: Unloading unused assets
 
-[Info   : Unity Log] 02/11/2026 19:03:58: Registering lobby
+[Info   : Unity Log] 02/11/2026 19:08:18: Registering lobby
 
-[Info   : Unity Log] 02/11/2026 19:03:58: Opened Steam server
+[Info   : Unity Log] 02/11/2026 19:08:18: Opened Steam server
 
 [Info   : Unity Log] The shader Hidden/Dof/DepthOfFieldHdr (UnityEngine.Shader) on effect Main Camera (UnityStandardAssets.ImageEffects.DepthOfField) is not supported on this platform!
 [Warning: Unity Log] The image effect Main Camera (UnityStandardAssets.ImageEffects.DepthOfField) has been disabled as it's not supported on the current platform.
 [Info   : Unity Log] The shader Hidden/SunShaftsComposite (UnityEngine.Shader) on effect Main Camera (UnityStandardAssets.ImageEffects.SunShafts) is not supported on this platform!
 [Info   : Unity Log] The shader Hidden/SimpleClear (UnityEngine.Shader) on effect Main Camera (UnityStandardAssets.ImageEffects.SunShafts) is not supported on this platform!
 [Warning: Unity Log] The image effect Main Camera (UnityStandardAssets.ImageEffects.SunShafts) has been disabled as it's not supported on the current platform.
-[Info   : Unity Log] 02/11/2026 19:03:58: Game server connected
+[Info   : Unity Log] 02/11/2026 19:08:18: Game server connected
 
-[Info   :ServersideQoL] [00:00:14.157] Enabled: True, DiagnosticLogs: False
-[Warning:ServersideQoL] [00:00:14.158] Unsupported network version: 36, expected: 35
-[Warning:ServersideQoL] [00:00:14.158] Unsupported world version: 37, expected: 36
-[Error  :ServersideQoL] [00:00:14.158] Version checks failed. Mod execution is stopped
-[Info   :ServersideQoL] [00:00:18.965] Enabled: True, DiagnosticLogs: False
-[Warning:ServersideQoL] [00:00:18.965] Unsupported network version: 36, expected: 35
-[Warning:ServersideQoL] [00:00:18.965] Unsupported world version: 37, expected: 36
-[Error  :ServersideQoL] [00:00:18.965] Version checks failed. Mod execution is stopped
-[Info   :ServersideQoL] [00:00:23.965] Enabled: True, DiagnosticLogs: False
-[Warning:ServersideQoL] [00:00:23.966] Unsupported network version: 36, expected: 35
-[Warning:ServersideQoL] [00:00:23.966] Unsupported world version: 37, expected: 36
-[Error  :ServersideQoL] [00:00:23.966] Version checks failed. Mod execution is stopped
-[Info   :ServersideQoL] [00:00:28.997] Enabled: True, DiagnosticLogs: False
-[Warning:ServersideQoL] [00:00:28.997] Unsupported network version: 36, expected: 35
-[Warning:ServersideQoL] [00:00:28.997] Unsupported world version: 37, expected: 36
-[Error  :ServersideQoL] [00:00:28.997] Version checks failed. Mod execution is stopped
-[Info   :ServersideQoL] [00:00:34.025] Enabled: True, DiagnosticLogs: False
-[Warning:ServersideQoL] [00:00:34.025] Unsupported network version: 36, expected: 35
-[Warning:ServersideQoL] [00:00:34.025] Unsupported world version: 37, expected: 36
-[Error  :ServersideQoL] [00:00:34.025] Version checks failed. Mod execution is stopped
-[Info   :ServersideQoL] [00:00:39.057] Enabled: True, DiagnosticLogs: False
-[Warning:ServersideQoL] [00:00:39.057] Unsupported network version: 36, expected: 35
-[Warning:ServersideQoL] [00:00:39.057] Unsupported world version: 37, expected: 36
-[Error  :ServersideQoL] [00:00:39.057] Version checks failed. Mod execution is stopped
-[Info   :ServersideQoL] [00:00:44.058] Enabled: True, DiagnosticLogs: False
-[Warning:ServersideQoL] [00:00:44.058] Unsupported network version: 36, expected: 35
-[Warning:ServersideQoL] [00:00:44.058] Unsupported world version: 37, expected: 36
-[Error  :ServersideQoL] [00:00:44.058] Version checks failed. Mod execution is stopped
-[Info   :ServersideQoL] [00:00:49.086] Enabled: True, DiagnosticLogs: False
-[Warning:ServersideQoL] [00:00:49.086] Unsupported network version: 36, expected: 35
-[Warning:ServersideQoL] [00:00:49.086] Unsupported world version: 37, expected: 36
-[Error  :ServersideQoL] [00:00:49.086] Version checks failed. Mod execution is stopped
-[Info   :ServersideQoL] [00:00:54.117] Enabled: True, DiagnosticLogs: False
-[Warning:ServersideQoL] [00:00:54.117] Unsupported network version: 36, expected: 35
-[Warning:ServersideQoL] [00:00:54.117] Unsupported world version: 37, expected: 36
-[Error  :ServersideQoL] [00:00:54.117] Version checks failed. Mod execution is stopped
-[Info   :ServersideQoL] [00:00:59.118] Enabled: True, DiagnosticLogs: False
-[Warning:ServersideQoL] [00:00:59.118] Unsupported network version: 36, expected: 35
-[Warning:ServersideQoL] [00:00:59.118] Unsupported world version: 37, expected: 36
-[Error  :ServersideQoL] [00:00:59.118] Version checks failed. Mod execution is stopped
-[Info   :ServersideQoL] [00:01:04.144] Enabled: True, DiagnosticLogs: False
-[Warning:ServersideQoL] [00:01:04.144] Unsupported network version: 36, expected: 35
-[Warning:ServersideQoL] [00:01:04.144] Unsupported world version: 37, expected: 36
-[Error  :ServersideQoL] [00:01:04.144] Version checks failed. Mod execution is stopped
-[Info   :ServersideQoL] [00:01:09.145] Enabled: True, DiagnosticLogs: False
-[Warning:ServersideQoL] [00:01:09.145] Unsupported network version: 36, expected: 35
-[Warning:ServersideQoL] [00:01:09.145] Unsupported world version: 37, expected: 36
-[Error  :ServersideQoL] [00:01:09.145] Version checks failed. Mod execution is stopped
-[Info   : Unity Log] 02/11/2026 19:04:58: Got status changed msg k_ESteamNetworkingConnectionState_Connecting
+[Info   :ServersideQoL] [00:00:13.949] Enabled: True, DiagnosticLogs: False
+[Warning:ServersideQoL] [00:00:13.950] Unsupported network version: 36, expected: 35
+[Warning:ServersideQoL] [00:00:13.951] Unsupported world version: 37, expected: 36
+[Error  :ServersideQoL] [00:00:13.951] Version checks failed. Mod execution is stopped
+[Info   :ServersideQoL] [00:00:18.783] Enabled: True, DiagnosticLogs: False
+[Warning:ServersideQoL] [00:00:18.783] Unsupported network version: 36, expected: 35
+[Warning:ServersideQoL] [00:00:18.783] Unsupported world version: 37, expected: 36
+[Error  :ServersideQoL] [00:00:18.783] Version checks failed. Mod execution is stopped
+[Info   :ServersideQoL] [00:00:23.815] Enabled: True, DiagnosticLogs: False
+[Warning:ServersideQoL] [00:00:23.815] Unsupported network version: 36, expected: 35
+[Warning:ServersideQoL] [00:00:23.815] Unsupported world version: 37, expected: 36
+[Error  :ServersideQoL] [00:00:23.815] Version checks failed. Mod execution is stopped
+[Info   :ServersideQoL] [00:00:28.815] Enabled: True, DiagnosticLogs: False
+[Warning:ServersideQoL] [00:00:28.815] Unsupported network version: 36, expected: 35
+[Warning:ServersideQoL] [00:00:28.815] Unsupported world version: 37, expected: 36
+[Error  :ServersideQoL] [00:00:28.815] Version checks failed. Mod execution is stopped
+[Info   :ServersideQoL] [00:00:33.815] Enabled: True, DiagnosticLogs: False
+[Warning:ServersideQoL] [00:00:33.815] Unsupported network version: 36, expected: 35
+[Warning:ServersideQoL] [00:00:33.815] Unsupported world version: 37, expected: 36
+[Error  :ServersideQoL] [00:00:33.815] Version checks failed. Mod execution is stopped
+[Info   :ServersideQoL] [00:00:38.843] Enabled: True, DiagnosticLogs: False
+[Warning:ServersideQoL] [00:00:38.843] Unsupported network version: 36, expected: 35
+[Warning:ServersideQoL] [00:00:38.843] Unsupported world version: 37, expected: 36
+[Error  :ServersideQoL] [00:00:38.843] Version checks failed. Mod execution is stopped
+[Info   :ServersideQoL] [00:00:43.877] Enabled: True, DiagnosticLogs: False
+[Warning:ServersideQoL] [00:00:43.877] Unsupported network version: 36, expected: 35
+[Warning:ServersideQoL] [00:00:43.877] Unsupported world version: 37, expected: 36
+[Error  :ServersideQoL] [00:00:43.877] Version checks failed. Mod execution is stopped
+[Info   :ServersideQoL] [00:00:48.907] Enabled: True, DiagnosticLogs: False
+[Warning:ServersideQoL] [00:00:48.907] Unsupported network version: 36, expected: 35
+[Warning:ServersideQoL] [00:00:48.907] Unsupported world version: 37, expected: 36
+[Error  :ServersideQoL] [00:00:48.907] Version checks failed. Mod execution is stopped
+[Info   :ServersideQoL] [00:00:53.908] Enabled: True, DiagnosticLogs: False
+[Warning:ServersideQoL] [00:00:53.908] Unsupported network version: 36, expected: 35
+[Warning:ServersideQoL] [00:00:53.908] Unsupported world version: 37, expected: 36
+[Error  :ServersideQoL] [00:00:53.908] Version checks failed. Mod execution is stopped
+[Info   :ServersideQoL] [00:00:58.940] Enabled: True, DiagnosticLogs: False
+[Warning:ServersideQoL] [00:00:58.940] Unsupported network version: 36, expected: 35
+[Warning:ServersideQoL] [00:00:58.940] Unsupported world version: 37, expected: 36
+[Error  :ServersideQoL] [00:00:58.940] Version checks failed. Mod execution is stopped
+[Info   :ServersideQoL] [00:01:03.968] Enabled: True, DiagnosticLogs: False
+[Warning:ServersideQoL] [00:01:03.968] Unsupported network version: 36, expected: 35
+[Warning:ServersideQoL] [00:01:03.969] Unsupported world version: 37, expected: 36
+[Error  :ServersideQoL] [00:01:03.969] Version checks failed. Mod execution is stopped
+[Info   :ServersideQoL] [00:01:08.968] Enabled: True, DiagnosticLogs: False
+[Warning:ServersideQoL] [00:01:08.969] Unsupported network version: 36, expected: 35
+[Warning:ServersideQoL] [00:01:08.969] Unsupported world version: 37, expected: 36
+[Error  :ServersideQoL] [00:01:08.969] Version checks failed. Mod execution is stopped
+[Info   :ServersideQoL] [00:01:13.969] Enabled: True, DiagnosticLogs: False
+[Warning:ServersideQoL] [00:01:13.969] Unsupported network version: 36, expected: 35
+[Warning:ServersideQoL] [00:01:13.969] Unsupported world version: 37, expected: 36
+[Error  :ServersideQoL] [00:01:13.969] Version checks failed. Mod execution is stopped
+[Info   :ServersideQoL] [00:01:19.001] Enabled: True, DiagnosticLogs: False
+[Warning:ServersideQoL] [00:01:19.002] Unsupported network version: 36, expected: 35
+[Warning:ServersideQoL] [00:01:19.002] Unsupported world version: 37, expected: 36
+[Error  :ServersideQoL] [00:01:19.002] Version checks failed. Mod execution is stopped
+[Info   :ServersideQoL] [00:01:24.032] Enabled: True, DiagnosticLogs: False
+[Warning:ServersideQoL] [00:01:24.032] Unsupported network version: 36, expected: 35
+[Warning:ServersideQoL] [00:01:24.033] Unsupported world version: 37, expected: 36
+[Error  :ServersideQoL] [00:01:24.033] Version checks failed. Mod execution is stopped
+[Info   :ServersideQoL] [00:01:29.062] Enabled: True, DiagnosticLogs: False
+[Warning:ServersideQoL] [00:01:29.062] Unsupported network version: 36, expected: 35
+[Warning:ServersideQoL] [00:01:29.062] Unsupported world version: 37, expected: 36
+[Error  :ServersideQoL] [00:01:29.062] Version checks failed. Mod execution is stopped
+[Info   : Unity Log] 02/11/2026 19:09:36: Got status changed msg k_ESteamNetworkingConnectionState_Connecting
 
-[Info   : Unity Log] 02/11/2026 19:04:58: New connection
+[Info   : Unity Log] 02/11/2026 19:09:36: New connection
 
-[Info   : Unity Log] 02/11/2026 19:04:58: Accepting connection k_EResultOK
+[Info   : Unity Log] 02/11/2026 19:09:36: Accepting connection k_EResultOK
 
-[Info   : Unity Log] 02/11/2026 19:04:58: Connecting to Steamworks.SteamNetworkingIdentity
+[Info   : Unity Log] 02/11/2026 19:09:36: Connecting to Steamworks.SteamNetworkingIdentity
 
-[Info   : Unity Log] 02/11/2026 19:04:58: Got status changed msg k_ESteamNetworkingConnectionState_Connected
+[Info   : Unity Log] 02/11/2026 19:09:36: Got status changed msg k_ESteamNetworkingConnectionState_Connected
 
-[Info   : Unity Log] 02/11/2026 19:04:58: Connected
+[Info   : Unity Log] 02/11/2026 19:09:36: Connected
 
-[Info   : Unity Log] 02/11/2026 19:04:58: Got connection SteamID 76561198028550379
+[Info   : Unity Log] 02/11/2026 19:09:36: Got connection SteamID 76561198028550379
 
-[Info   : Unity Log] 02/11/2026 19:04:58: Got handshake from client 76561198028550379
+[Info   : Unity Log] 02/11/2026 19:09:36: Got handshake from client 76561198028550379
 
-[Info   :ServersideQoL] [00:01:14.147] Enabled: True, DiagnosticLogs: False
-[Warning:ServersideQoL] [00:01:14.147] Unsupported network version: 36, expected: 35
-[Warning:ServersideQoL] [00:01:14.147] Unsupported world version: 37, expected: 36
-[Error  :ServersideQoL] [00:01:14.147] Version checks failed. Mod execution is stopped
-[Info   :ServersideQoL] [00:01:19.172] Enabled: True, DiagnosticLogs: False
-[Warning:ServersideQoL] [00:01:19.172] Unsupported network version: 36, expected: 35
-[Warning:ServersideQoL] [00:01:19.172] Unsupported world version: 37, expected: 36
-[Error  :ServersideQoL] [00:01:19.172] Version checks failed. Mod execution is stopped
-[Info   : Unity Log] 02/11/2026 19:05:05: Network version check, their:36, mine:36
+[Info   :ServersideQoL] [00:01:34.064] Enabled: True, DiagnosticLogs: False
+[Warning:ServersideQoL] [00:01:34.064] Unsupported network version: 36, expected: 35
+[Warning:ServersideQoL] [00:01:34.064] Unsupported world version: 37, expected: 36
+[Error  :ServersideQoL] [00:01:34.064] Version checks failed. Mod execution is stopped
+[Info   : Unity Log] 02/11/2026 19:09:40: Network version check, their:36, mine:36
 
-[Info   : Unity Log] 02/11/2026 19:05:05: Server: New peer connected,sending global keys
+[Info   : Unity Log] 02/11/2026 19:09:40: Server: New peer connected,sending global keys
 
-[Info   :ServersideQoL] [00:01:24.192] Enabled: True, DiagnosticLogs: False
-[Warning:ServersideQoL] [00:01:24.192] Unsupported network version: 36, expected: 35
-[Warning:ServersideQoL] [00:01:24.192] Unsupported world version: 37, expected: 36
-[Error  :ServersideQoL] [00:01:24.192] Version checks failed. Mod execution is stopped
-[Info   :ServersideQoL] [00:01:29.216] Enabled: True, DiagnosticLogs: False
-[Warning:ServersideQoL] [00:01:29.216] Unsupported network version: 36, expected: 35
-[Warning:ServersideQoL] [00:01:29.216] Unsupported world version: 37, expected: 36
-[Error  :ServersideQoL] [00:01:29.216] Version checks failed. Mod execution is stopped
-[Info   :ServersideQoL] [00:01:34.246] Enabled: True, DiagnosticLogs: False
-[Warning:ServersideQoL] [00:01:34.246] Unsupported network version: 36, expected: 35
-[Warning:ServersideQoL] [00:01:34.246] Unsupported world version: 37, expected: 36
-[Error  :ServersideQoL] [00:01:34.246] Version checks failed. Mod execution is stopped
-[Info   : Unity Log] 02/11/2026 19:05:21: Got character ZDOID from Bonkson : 722408320:2
+[Info   :ServersideQoL] [00:01:39.089] Enabled: True, DiagnosticLogs: False
+[Warning:ServersideQoL] [00:01:39.090] Unsupported network version: 36, expected: 35
+[Warning:ServersideQoL] [00:01:39.090] Unsupported world version: 37, expected: 36
+[Error  :ServersideQoL] [00:01:39.090] Version checks failed. Mod execution is stopped
+[Info   :ServersideQoL] [00:01:44.121] Enabled: True, DiagnosticLogs: False
+[Warning:ServersideQoL] [00:01:44.121] Unsupported network version: 36, expected: 35
+[Warning:ServersideQoL] [00:01:44.121] Unsupported world version: 37, expected: 36
+[Error  :ServersideQoL] [00:01:44.121] Version checks failed. Mod execution is stopped
+[Info   :ServersideQoL] [00:01:49.150] Enabled: True, DiagnosticLogs: False
+[Warning:ServersideQoL] [00:01:49.150] Unsupported network version: 36, expected: 35
+[Warning:ServersideQoL] [00:01:49.150] Unsupported world version: 37, expected: 36
+[Error  :ServersideQoL] [00:01:49.150] Version checks failed. Mod execution is stopped
+[Info   : Unity Log] 02/11/2026 19:09:56: Got character ZDOID from Bonkson : 1838846788:2
 
-[Info   :ServersideQoL] [00:01:39.273] Enabled: True, DiagnosticLogs: False
-[Warning:ServersideQoL] [00:01:39.273] Unsupported network version: 36, expected: 35
-[Warning:ServersideQoL] [00:01:39.273] Unsupported world version: 37, expected: 36
-[Error  :ServersideQoL] [00:01:39.273] Version checks failed. Mod execution is stopped
-[Info   :ServersideQoL] [00:01:44.299] Enabled: True, DiagnosticLogs: False
-[Warning:ServersideQoL] [00:01:44.299] Unsupported network version: 36, expected: 35
-[Warning:ServersideQoL] [00:01:44.299] Unsupported world version: 37, expected: 36
-[Error  :ServersideQoL] [00:01:44.299] Version checks failed. Mod execution is stopped
-[Info   :ServersideQoL] [00:01:49.326] Enabled: True, DiagnosticLogs: False
-[Warning:ServersideQoL] [00:01:49.326] Unsupported network version: 36, expected: 35
-[Warning:ServersideQoL] [00:01:49.326] Unsupported world version: 37, expected: 36
-[Error  :ServersideQoL] [00:01:49.326] Version checks failed. Mod execution is stopped
-[Info   :ServersideQoL] [00:01:54.349] Enabled: True, DiagnosticLogs: False
-[Warning:ServersideQoL] [00:01:54.349] Unsupported network version: 36, expected: 35
-[Warning:ServersideQoL] [00:01:54.349] Unsupported world version: 37, expected: 36
-[Error  :ServersideQoL] [00:01:54.349] Version checks failed. Mod execution is stopped
-[Info   :ServersideQoL] [00:01:59.370] Enabled: True, DiagnosticLogs: False
-[Warning:ServersideQoL] [00:01:59.370] Unsupported network version: 36, expected: 35
-[Warning:ServersideQoL] [00:01:59.370] Unsupported world version: 37, expected: 36
-[Error  :ServersideQoL] [00:01:59.370] Version checks failed. Mod execution is stopped
-[Info   :ServersideQoL] [00:02:04.393] Enabled: True, DiagnosticLogs: False
-[Warning:ServersideQoL] [00:02:04.393] Unsupported network version: 36, expected: 35
-[Warning:ServersideQoL] [00:02:04.393] Unsupported world version: 37, expected: 36
-[Error  :ServersideQoL] [00:02:04.393] Version checks failed. Mod execution is stopped
-[Info   :ServersideQoL] [00:02:09.420] Enabled: True, DiagnosticLogs: False
-[Warning:ServersideQoL] [00:02:09.420] Unsupported network version: 36, expected: 35
-[Warning:ServersideQoL] [00:02:09.420] Unsupported world version: 37, expected: 36
-[Error  :ServersideQoL] [00:02:09.421] Version checks failed. Mod execution is stopped
-[Info   :ServersideQoL] [00:02:14.446] Enabled: True, DiagnosticLogs: False
-[Warning:ServersideQoL] [00:02:14.446] Unsupported network version: 36, expected: 35
-[Warning:ServersideQoL] [00:02:14.446] Unsupported world version: 37, expected: 36
-[Error  :ServersideQoL] [00:02:14.446] Version checks failed. Mod execution is stopped
-[Info   :ServersideQoL] [00:02:19.468] Enabled: True, DiagnosticLogs: False
-[Warning:ServersideQoL] [00:02:19.468] Unsupported network version: 36, expected: 35
-[Warning:ServersideQoL] [00:02:19.468] Unsupported world version: 37, expected: 36
-[Error  :ServersideQoL] [00:02:19.468] Version checks failed. Mod execution is stopped
-[Info   :ServersideQoL] [00:02:24.493] Enabled: True, DiagnosticLogs: False
-[Warning:ServersideQoL] [00:02:24.494] Unsupported network version: 36, expected: 35
-[Warning:ServersideQoL] [00:02:24.494] Unsupported world version: 37, expected: 36
-[Error  :ServersideQoL] [00:02:24.494] Version checks failed. Mod execution is stopped
-[Info   :ServersideQoL] [00:02:29.522] Enabled: True, DiagnosticLogs: False
-[Warning:ServersideQoL] [00:02:29.522] Unsupported network version: 36, expected: 35
-[Warning:ServersideQoL] [00:02:29.522] Unsupported world version: 37, expected: 36
-[Error  :ServersideQoL] [00:02:29.522] Version checks failed. Mod execution is stopped
-[Info   :ServersideQoL] [00:02:34.549] Enabled: True, DiagnosticLogs: False
-[Warning:ServersideQoL] [00:02:34.549] Unsupported network version: 36, expected: 35
-[Warning:ServersideQoL] [00:02:34.549] Unsupported world version: 37, expected: 36
-[Error  :ServersideQoL] [00:02:34.549] Version checks failed. Mod execution is stopped
-[Info   :ServersideQoL] [00:02:39.576] Enabled: True, DiagnosticLogs: False
-[Warning:ServersideQoL] [00:02:39.576] Unsupported network version: 36, expected: 35
-[Warning:ServersideQoL] [00:02:39.576] Unsupported world version: 37, expected: 36
-[Error  :ServersideQoL] [00:02:39.576] Version checks failed. Mod execution is stopped
-[Info   :ServersideQoL] [00:02:44.600] Enabled: True, DiagnosticLogs: False
-[Warning:ServersideQoL] [00:02:44.600] Unsupported network version: 36, expected: 35
-[Warning:ServersideQoL] [00:02:44.600] Unsupported world version: 37, expected: 36
-[Error  :ServersideQoL] [00:02:44.600] Version checks failed. Mod execution is stopped
-[Info   :ServersideQoL] [00:02:49.626] Enabled: True, DiagnosticLogs: False
-[Warning:ServersideQoL] [00:02:49.626] Unsupported network version: 36, expected: 35
-[Warning:ServersideQoL] [00:02:49.626] Unsupported world version: 37, expected: 36
-[Error  :ServersideQoL] [00:02:49.626] Version checks failed. Mod execution is stopped
-[Info   :ServersideQoL] [00:02:54.652] Enabled: True, DiagnosticLogs: False
-[Warning:ServersideQoL] [00:02:54.652] Unsupported network version: 36, expected: 35
-[Warning:ServersideQoL] [00:02:54.652] Unsupported world version: 37, expected: 36
-[Error  :ServersideQoL] [00:02:54.652] Version checks failed. Mod execution is stopped
-[Info   : Unity Log] 02/11/2026 19:06:41: RPC_Disconnect
+[Info   :ServersideQoL] [00:01:54.180] Enabled: True, DiagnosticLogs: False
+[Warning:ServersideQoL] [00:01:54.180] Unsupported network version: 36, expected: 35
+[Warning:ServersideQoL] [00:01:54.180] Unsupported world version: 37, expected: 36
+[Error  :ServersideQoL] [00:01:54.180] Version checks failed. Mod execution is stopped
+[Info   :ServersideQoL] [00:01:59.207] Enabled: True, DiagnosticLogs: False
+[Warning:ServersideQoL] [00:01:59.207] Unsupported network version: 36, expected: 35
+[Warning:ServersideQoL] [00:01:59.207] Unsupported world version: 37, expected: 36
+[Error  :ServersideQoL] [00:01:59.207] Version checks failed. Mod execution is stopped
+[Info   :ServersideQoL] [00:02:04.233] Enabled: True, DiagnosticLogs: False
+[Warning:ServersideQoL] [00:02:04.233] Unsupported network version: 36, expected: 35
+[Warning:ServersideQoL] [00:02:04.233] Unsupported world version: 37, expected: 36
+[Error  :ServersideQoL] [00:02:04.233] Version checks failed. Mod execution is stopped
+[Info   :ServersideQoL] [00:02:09.257] Enabled: True, DiagnosticLogs: False
+[Warning:ServersideQoL] [00:02:09.257] Unsupported network version: 36, expected: 35
+[Warning:ServersideQoL] [00:02:09.257] Unsupported world version: 37, expected: 36
+[Error  :ServersideQoL] [00:02:09.257] Version checks failed. Mod execution is stopped
+[Info   : Unity Log] 02/11/2026 19:10:20: RPC_Disconnect
 
-[Info   : Unity Log] 02/11/2026 19:06:41: Destroying abandoned non persistent zdo 722408320:1 owner 722408320
+[Info   : Unity Log] 02/11/2026 19:10:20: Destroying abandoned non persistent zdo 1838846788:1 owner 1838846788
 
-[Info   : Unity Log] 02/11/2026 19:06:41: Destroying abandoned non persistent zdo 722408320:2 owner 722408320
+[Info   : Unity Log] 02/11/2026 19:10:20: Destroying abandoned non persistent zdo 1838846788:2 owner 1838846788
 
-[Info   : Unity Log] 02/11/2026 19:06:41: Destroying abandoned non persistent zdo 722408320:106 owner 722408320
+[Info   : Unity Log] 02/11/2026 19:10:20: Destroying abandoned non persistent zdo 1838846788:33 owner 1838846788
 
-[Info   : Unity Log] 02/11/2026 19:06:41: Destroying abandoned non persistent zdo 722408320:111 owner 722408320
+[Info   : Unity Log] 02/11/2026 19:10:20: Destroying abandoned non persistent zdo 1838846788:34 owner 1838846788
 
-[Info   : Unity Log] 02/11/2026 19:06:41: Disposing socket
+[Info   : Unity Log] 02/11/2026 19:10:20: Disposing socket
 
-[Info   : Unity Log] 02/11/2026 19:06:41: Closing socket 76561198028550379
+[Info   : Unity Log] 02/11/2026 19:10:20: Closing socket 76561198028550379
 
-[Info   : Unity Log] 02/11/2026 19:06:41:   send queue size:0
+[Info   : Unity Log] 02/11/2026 19:10:20:   send queue size:0
 
-[Info   : Unity Log] 02/11/2026 19:06:41: Disposing socket
+[Info   : Unity Log] 02/11/2026 19:10:20: Disposing socket
 
-[Info   : Unity Log] 02/11/2026 19:06:41: Got status changed msg k_ESteamNetworkingConnectionState_ClosedByPeer
+[Info   : Unity Log] 02/11/2026 19:10:20: Got status changed msg k_ESteamNetworkingConnectionState_ClosedByPeer
 
-[Info   : Unity Log] 02/11/2026 19:06:41: Socket closed by peer Steamworks.SteamNetConnectionStatusChangedCallback_t
+[Info   : Unity Log] 02/11/2026 19:10:20: Socket closed by peer Steamworks.SteamNetConnectionStatusChangedCallback_t
 
-[Info   : Unity Log] 02/11/2026 19:06:41: Got status changed msg k_ESteamNetworkingConnectionState_None
+[Info   : Unity Log] 02/11/2026 19:10:20: Got status changed msg k_ESteamNetworkingConnectionState_None
 
-[Info   :ServersideQoL] [00:02:59.655] Enabled: True, DiagnosticLogs: False
-[Warning:ServersideQoL] [00:02:59.655] Unsupported network version: 36, expected: 35
-[Warning:ServersideQoL] [00:02:59.655] Unsupported world version: 37, expected: 36
-[Error  :ServersideQoL] [00:02:59.655] Version checks failed. Mod execution is stopped
-[Info   :ServersideQoL] [00:03:04.687] Enabled: True, DiagnosticLogs: False
-[Warning:ServersideQoL] [00:03:04.687] Unsupported network version: 36, expected: 35
-[Warning:ServersideQoL] [00:03:04.687] Unsupported world version: 37, expected: 36
-[Error  :ServersideQoL] [00:03:04.687] Version checks failed. Mod execution is stopped
-[Info   : Unity Log] 02/11/2026 19:06:53: Game - OnApplicationQuit
+[Info   :ServersideQoL] [00:02:14.289] Enabled: True, DiagnosticLogs: False
+[Warning:ServersideQoL] [00:02:14.289] Unsupported network version: 36, expected: 35
+[Warning:ServersideQoL] [00:02:14.289] Unsupported world version: 37, expected: 36
+[Error  :ServersideQoL] [00:02:14.290] Version checks failed. Mod execution is stopped
+[Info   :ServersideQoL] [00:02:19.321] Enabled: True, DiagnosticLogs: False
+[Warning:ServersideQoL] [00:02:19.321] Unsupported network version: 36, expected: 35
+[Warning:ServersideQoL] [00:02:19.321] Unsupported world version: 37, expected: 36
+[Error  :ServersideQoL] [00:02:19.321] Version checks failed. Mod execution is stopped
+[Info   :ServersideQoL] [00:02:24.351] Enabled: True, DiagnosticLogs: False
+[Warning:ServersideQoL] [00:02:24.351] Unsupported network version: 36, expected: 35
+[Warning:ServersideQoL] [00:02:24.351] Unsupported world version: 37, expected: 36
+[Error  :ServersideQoL] [00:02:24.351] Version checks failed. Mod execution is stopped
+[Info   :ServersideQoL] [00:02:29.384] Enabled: True, DiagnosticLogs: False
+[Warning:ServersideQoL] [00:02:29.384] Unsupported network version: 36, expected: 35
+[Warning:ServersideQoL] [00:02:29.384] Unsupported world version: 37, expected: 36
+[Error  :ServersideQoL] [00:02:29.384] Version checks failed. Mod execution is stopped
+[Info   :ServersideQoL] [00:02:34.384] Enabled: True, DiagnosticLogs: False
+[Warning:ServersideQoL] [00:02:34.384] Unsupported network version: 36, expected: 35
+[Warning:ServersideQoL] [00:02:34.384] Unsupported world version: 37, expected: 36
+[Error  :ServersideQoL] [00:02:34.384] Version checks failed. Mod execution is stopped
+[Info   :ServersideQoL] [00:02:39.414] Enabled: True, DiagnosticLogs: False
+[Warning:ServersideQoL] [00:02:39.414] Unsupported network version: 36, expected: 35
+[Warning:ServersideQoL] [00:02:39.414] Unsupported world version: 37, expected: 36
+[Error  :ServersideQoL] [00:02:39.414] Version checks failed. Mod execution is stopped
+[Info   :ServersideQoL] [00:02:44.414] Enabled: True, DiagnosticLogs: False
+[Warning:ServersideQoL] [00:02:44.415] Unsupported network version: 36, expected: 35
+[Warning:ServersideQoL] [00:02:44.415] Unsupported world version: 37, expected: 36
+[Error  :ServersideQoL] [00:02:44.415] Version checks failed. Mod execution is stopped
+[Info   :ServersideQoL] [00:02:49.446] Enabled: True, DiagnosticLogs: False
+[Warning:ServersideQoL] [00:02:49.446] Unsupported network version: 36, expected: 35
+[Warning:ServersideQoL] [00:02:49.447] Unsupported world version: 37, expected: 36
+[Error  :ServersideQoL] [00:02:49.447] Version checks failed. Mod execution is stopped
+[Info   :ServersideQoL] [00:02:54.479] Enabled: True, DiagnosticLogs: False
+[Warning:ServersideQoL] [00:02:54.480] Unsupported network version: 36, expected: 35
+[Warning:ServersideQoL] [00:02:54.480] Unsupported world version: 37, expected: 36
+[Error  :ServersideQoL] [00:02:54.480] Version checks failed. Mod execution is stopped
+[Info   :ServersideQoL] [00:02:59.508] Enabled: True, DiagnosticLogs: False
+[Warning:ServersideQoL] [00:02:59.508] Unsupported network version: 36, expected: 35
+[Warning:ServersideQoL] [00:02:59.508] Unsupported world version: 37, expected: 36
+[Error  :ServersideQoL] [00:02:59.508] Version checks failed. Mod execution is stopped
+[Info   :ServersideQoL] [00:03:04.509] Enabled: True, DiagnosticLogs: False
+[Warning:ServersideQoL] [00:03:04.509] Unsupported network version: 36, expected: 35
+[Warning:ServersideQoL] [00:03:04.509] Unsupported world version: 37, expected: 36
+[Error  :ServersideQoL] [00:03:04.509] Version checks failed. Mod execution is stopped
+[Info   :ServersideQoL] [00:03:09.510] Enabled: True, DiagnosticLogs: False
+[Warning:ServersideQoL] [00:03:09.510] Unsupported network version: 36, expected: 35
+[Warning:ServersideQoL] [00:03:09.511] Unsupported world version: 37, expected: 36
+[Error  :ServersideQoL] [00:03:09.511] Version checks failed. Mod execution is stopped
+[Info   :ServersideQoL] [00:03:14.513] Enabled: True, DiagnosticLogs: False
+[Warning:ServersideQoL] [00:03:14.513] Unsupported network version: 36, expected: 35
+[Warning:ServersideQoL] [00:03:14.513] Unsupported world version: 37, expected: 36
+[Error  :ServersideQoL] [00:03:14.514] Version checks failed. Mod execution is stopped
+[Info   :ServersideQoL] [00:03:19.545] Enabled: True, DiagnosticLogs: False
+[Warning:ServersideQoL] [00:03:19.545] Unsupported network version: 36, expected: 35
+[Warning:ServersideQoL] [00:03:19.545] Unsupported world version: 37, expected: 36
+[Error  :ServersideQoL] [00:03:19.545] Version checks failed. Mod execution is stopped
+[Info   :ServersideQoL] [00:03:24.578] Enabled: True, DiagnosticLogs: False
+[Warning:ServersideQoL] [00:03:24.578] Unsupported network version: 36, expected: 35
+[Warning:ServersideQoL] [00:03:24.578] Unsupported world version: 37, expected: 36
+[Error  :ServersideQoL] [00:03:24.578] Version checks failed. Mod execution is stopped
+[Info   :ServersideQoL] [00:03:29.609] Enabled: True, DiagnosticLogs: False
+[Warning:ServersideQoL] [00:03:29.609] Unsupported network version: 36, expected: 35
+[Warning:ServersideQoL] [00:03:29.609] Unsupported world version: 37, expected: 36
+[Error  :ServersideQoL] [00:03:29.609] Version checks failed. Mod execution is stopped
+[Info   :ServersideQoL] [00:03:34.612] Enabled: True, DiagnosticLogs: False
+[Warning:ServersideQoL] [00:03:34.613] Unsupported network version: 36, expected: 35
+[Warning:ServersideQoL] [00:03:34.613] Unsupported world version: 37, expected: 36
+[Error  :ServersideQoL] [00:03:34.613] Version checks failed. Mod execution is stopped
+[Info   :ServersideQoL] [00:03:39.640] Enabled: True, DiagnosticLogs: False
+[Warning:ServersideQoL] [00:03:39.640] Unsupported network version: 36, expected: 35
+[Warning:ServersideQoL] [00:03:39.640] Unsupported world version: 37, expected: 36
+[Error  :ServersideQoL] [00:03:39.640] Version checks failed. Mod execution is stopped
+[Info   :ServersideQoL] [00:03:44.641] Enabled: True, DiagnosticLogs: False
+[Warning:ServersideQoL] [00:03:44.641] Unsupported network version: 36, expected: 35
+[Warning:ServersideQoL] [00:03:44.641] Unsupported world version: 37, expected: 36
+[Error  :ServersideQoL] [00:03:44.641] Version checks failed. Mod execution is stopped
+[Info   :ServersideQoL] [00:03:49.642] Enabled: True, DiagnosticLogs: False
+[Warning:ServersideQoL] [00:03:49.642] Unsupported network version: 36, expected: 35
+[Warning:ServersideQoL] [00:03:49.642] Unsupported world version: 37, expected: 36
+[Error  :ServersideQoL] [00:03:49.642] Version checks failed. Mod execution is stopped
+[Info   :ServersideQoL] [00:03:54.675] Enabled: True, DiagnosticLogs: False
+[Warning:ServersideQoL] [00:03:54.675] Unsupported network version: 36, expected: 35
+[Warning:ServersideQoL] [00:03:54.675] Unsupported world version: 37, expected: 36
+[Error  :ServersideQoL] [00:03:54.675] Version checks failed. Mod execution is stopped
+[Info   :ServersideQoL] [00:03:59.704] Enabled: True, DiagnosticLogs: False
+[Warning:ServersideQoL] [00:03:59.704] Unsupported network version: 36, expected: 35
+[Warning:ServersideQoL] [00:03:59.704] Unsupported world version: 37, expected: 36
+[Error  :ServersideQoL] [00:03:59.704] Version checks failed. Mod execution is stopped
+[Info   :ServersideQoL] [00:04:04.707] Enabled: True, DiagnosticLogs: False
+[Warning:ServersideQoL] [00:04:04.707] Unsupported network version: 36, expected: 35
+[Warning:ServersideQoL] [00:04:04.707] Unsupported world version: 37, expected: 36
+[Error  :ServersideQoL] [00:04:04.707] Version checks failed. Mod execution is stopped
+[Info   :ServersideQoL] [00:04:09.740] Enabled: True, DiagnosticLogs: False
+[Warning:ServersideQoL] [00:04:09.740] Unsupported network version: 36, expected: 35
+[Warning:ServersideQoL] [00:04:09.740] Unsupported world version: 37, expected: 36
+[Error  :ServersideQoL] [00:04:09.740] Version checks failed. Mod execution is stopped
+[Info   :ServersideQoL] [00:04:14.741] Enabled: True, DiagnosticLogs: False
+[Warning:ServersideQoL] [00:04:14.741] Unsupported network version: 36, expected: 35
+[Warning:ServersideQoL] [00:04:14.741] Unsupported world version: 37, expected: 36
+[Error  :ServersideQoL] [00:04:14.741] Version checks failed. Mod execution is stopped
+[Info   :ServersideQoL] [00:04:19.741] Enabled: True, DiagnosticLogs: False
+[Warning:ServersideQoL] [00:04:19.741] Unsupported network version: 36, expected: 35
+[Warning:ServersideQoL] [00:04:19.741] Unsupported world version: 37, expected: 36
+[Error  :ServersideQoL] [00:04:19.741] Version checks failed. Mod execution is stopped
+[Info   :ServersideQoL] [00:04:24.742] Enabled: True, DiagnosticLogs: False
+[Warning:ServersideQoL] [00:04:24.742] Unsupported network version: 36, expected: 35
+[Warning:ServersideQoL] [00:04:24.742] Unsupported world version: 37, expected: 36
+[Error  :ServersideQoL] [00:04:24.742] Version checks failed. Mod execution is stopped
+[Info   :ServersideQoL] [00:04:29.770] Enabled: True, DiagnosticLogs: False
+[Warning:ServersideQoL] [00:04:29.770] Unsupported network version: 36, expected: 35
+[Warning:ServersideQoL] [00:04:29.770] Unsupported world version: 37, expected: 36
+[Error  :ServersideQoL] [00:04:29.770] Version checks failed. Mod execution is stopped
+[Info   :ServersideQoL] [00:04:34.801] Enabled: True, DiagnosticLogs: False
+[Warning:ServersideQoL] [00:04:34.801] Unsupported network version: 36, expected: 35
+[Warning:ServersideQoL] [00:04:34.801] Unsupported world version: 37, expected: 36
+[Error  :ServersideQoL] [00:04:34.801] Version checks failed. Mod execution is stopped
+[Info   :ServersideQoL] [00:04:39.833] Enabled: True, DiagnosticLogs: False
+[Warning:ServersideQoL] [00:04:39.833] Unsupported network version: 36, expected: 35
+[Warning:ServersideQoL] [00:04:39.833] Unsupported world version: 37, expected: 36
+[Error  :ServersideQoL] [00:04:39.833] Version checks failed. Mod execution is stopped
+[Info   :ServersideQoL] [00:04:44.833] Enabled: True, DiagnosticLogs: False
+[Warning:ServersideQoL] [00:04:44.834] Unsupported network version: 36, expected: 35
+[Warning:ServersideQoL] [00:04:44.834] Unsupported world version: 37, expected: 36
+[Error  :ServersideQoL] [00:04:44.834] Version checks failed. Mod execution is stopped
+[Info   :ServersideQoL] [00:04:49.867] Enabled: True, DiagnosticLogs: False
+[Warning:ServersideQoL] [00:04:49.867] Unsupported network version: 36, expected: 35
+[Warning:ServersideQoL] [00:04:49.867] Unsupported world version: 37, expected: 36
+[Error  :ServersideQoL] [00:04:49.867] Version checks failed. Mod execution is stopped
+[Info   :ServersideQoL] [00:04:54.898] Enabled: True, DiagnosticLogs: False
+[Warning:ServersideQoL] [00:04:54.898] Unsupported network version: 36, expected: 35
+[Warning:ServersideQoL] [00:04:54.898] Unsupported world version: 37, expected: 36
+[Error  :ServersideQoL] [00:04:54.898] Version checks failed. Mod execution is stopped
+[Info   :ServersideQoL] [00:04:59.926] Enabled: True, DiagnosticLogs: False
+[Warning:ServersideQoL] [00:04:59.926] Unsupported network version: 36, expected: 35
+[Warning:ServersideQoL] [00:04:59.926] Unsupported world version: 37, expected: 36
+[Error  :ServersideQoL] [00:04:59.926] Version checks failed. Mod execution is stopped
+[Info   :ServersideQoL] [00:05:04.930] Enabled: True, DiagnosticLogs: False
+[Warning:ServersideQoL] [00:05:04.930] Unsupported network version: 36, expected: 35
+[Warning:ServersideQoL] [00:05:04.930] Unsupported world version: 37, expected: 36
+[Error  :ServersideQoL] [00:05:04.930] Version checks failed. Mod execution is stopped
+[Info   :ServersideQoL] [00:05:09.958] Enabled: True, DiagnosticLogs: False
+[Warning:ServersideQoL] [00:05:09.958] Unsupported network version: 36, expected: 35
+[Warning:ServersideQoL] [00:05:09.958] Unsupported world version: 37, expected: 36
+[Error  :ServersideQoL] [00:05:09.958] Version checks failed. Mod execution is stopped
+[Info   :ServersideQoL] [00:05:14.988] Enabled: True, DiagnosticLogs: False
+[Warning:ServersideQoL] [00:05:14.988] Unsupported network version: 36, expected: 35
+[Warning:ServersideQoL] [00:05:14.988] Unsupported world version: 37, expected: 36
+[Error  :ServersideQoL] [00:05:14.988] Version checks failed. Mod execution is stopped
+[Info   :ServersideQoL] [00:05:20.020] Enabled: True, DiagnosticLogs: False
+[Warning:ServersideQoL] [00:05:20.020] Unsupported network version: 36, expected: 35
+[Warning:ServersideQoL] [00:05:20.020] Unsupported world version: 37, expected: 36
+[Error  :ServersideQoL] [00:05:20.020] Version checks failed. Mod execution is stopped
+[Info   :ServersideQoL] [00:05:25.047] Enabled: True, DiagnosticLogs: False
+[Warning:ServersideQoL] [00:05:25.047] Unsupported network version: 36, expected: 35
+[Warning:ServersideQoL] [00:05:25.047] Unsupported world version: 37, expected: 36
+[Error  :ServersideQoL] [00:05:25.047] Version checks failed. Mod execution is stopped
+[Info   :ServersideQoL] [00:05:30.075] Enabled: True, DiagnosticLogs: False
+[Warning:ServersideQoL] [00:05:30.075] Unsupported network version: 36, expected: 35
+[Warning:ServersideQoL] [00:05:30.075] Unsupported world version: 37, expected: 36
+[Error  :ServersideQoL] [00:05:30.075] Version checks failed. Mod execution is stopped
+[Info   :ServersideQoL] [00:05:35.077] Enabled: True, DiagnosticLogs: False
+[Warning:ServersideQoL] [00:05:35.077] Unsupported network version: 36, expected: 35
+[Warning:ServersideQoL] [00:05:35.077] Unsupported world version: 37, expected: 36
+[Error  :ServersideQoL] [00:05:35.077] Version checks failed. Mod execution is stopped
+[Info   :ServersideQoL] [00:05:40.077] Enabled: True, DiagnosticLogs: False
+[Warning:ServersideQoL] [00:05:40.077] Unsupported network version: 36, expected: 35
+[Warning:ServersideQoL] [00:05:40.077] Unsupported world version: 37, expected: 36
+[Error  :ServersideQoL] [00:05:40.077] Version checks failed. Mod execution is stopped
+[Info   :ServersideQoL] [00:05:45.078] Enabled: True, DiagnosticLogs: False
+[Warning:ServersideQoL] [00:05:45.078] Unsupported network version: 36, expected: 35
+[Warning:ServersideQoL] [00:05:45.078] Unsupported world version: 37, expected: 36
+[Error  :ServersideQoL] [00:05:45.078] Version checks failed. Mod execution is stopped
+[Info   :ServersideQoL] [00:05:50.078] Enabled: True, DiagnosticLogs: False
+[Warning:ServersideQoL] [00:05:50.078] Unsupported network version: 36, expected: 35
+[Warning:ServersideQoL] [00:05:50.078] Unsupported world version: 37, expected: 36
+[Error  :ServersideQoL] [00:05:50.078] Version checks failed. Mod execution is stopped
+[Info   :ServersideQoL] [00:05:55.111] Enabled: True, DiagnosticLogs: False
+[Warning:ServersideQoL] [00:05:55.111] Unsupported network version: 36, expected: 35
+[Warning:ServersideQoL] [00:05:55.111] Unsupported world version: 37, expected: 36
+[Error  :ServersideQoL] [00:05:55.111] Version checks failed. Mod execution is stopped
+[Info   :ServersideQoL] [00:06:00.111] Enabled: True, DiagnosticLogs: False
+[Warning:ServersideQoL] [00:06:00.111] Unsupported network version: 36, expected: 35
+[Warning:ServersideQoL] [00:06:00.111] Unsupported world version: 37, expected: 36
+[Error  :ServersideQoL] [00:06:00.111] Version checks failed. Mod execution is stopped
+[Info   :ServersideQoL] [00:06:05.144] Enabled: True, DiagnosticLogs: False
+[Warning:ServersideQoL] [00:06:05.144] Unsupported network version: 36, expected: 35
+[Warning:ServersideQoL] [00:06:05.144] Unsupported world version: 37, expected: 36
+[Error  :ServersideQoL] [00:06:05.144] Version checks failed. Mod execution is stopped
+[Info   :ServersideQoL] [00:06:10.173] Enabled: True, DiagnosticLogs: False
+[Warning:ServersideQoL] [00:06:10.173] Unsupported network version: 36, expected: 35
+[Warning:ServersideQoL] [00:06:10.173] Unsupported world version: 37, expected: 36
+[Error  :ServersideQoL] [00:06:10.174] Version checks failed. Mod execution is stopped
+[Info   :ServersideQoL] [00:06:15.174] Enabled: True, DiagnosticLogs: False
+[Warning:ServersideQoL] [00:06:15.174] Unsupported network version: 36, expected: 35
+[Warning:ServersideQoL] [00:06:15.174] Unsupported world version: 37, expected: 36
+[Error  :ServersideQoL] [00:06:15.174] Version checks failed. Mod execution is stopped
+[Info   :ServersideQoL] [00:06:20.206] Enabled: True, DiagnosticLogs: False
+[Warning:ServersideQoL] [00:06:20.206] Unsupported network version: 36, expected: 35
+[Warning:ServersideQoL] [00:06:20.206] Unsupported world version: 37, expected: 36
+[Error  :ServersideQoL] [00:06:20.206] Version checks failed. Mod execution is stopped
+[Info   :ServersideQoL] [00:06:25.238] Enabled: True, DiagnosticLogs: False
+[Warning:ServersideQoL] [00:06:25.238] Unsupported network version: 36, expected: 35
+[Warning:ServersideQoL] [00:06:25.238] Unsupported world version: 37, expected: 36
+[Error  :ServersideQoL] [00:06:25.238] Version checks failed. Mod execution is stopped
+[Info   :ServersideQoL] [00:06:30.269] Enabled: True, DiagnosticLogs: False
+[Warning:ServersideQoL] [00:06:30.269] Unsupported network version: 36, expected: 35
+[Warning:ServersideQoL] [00:06:30.269] Unsupported world version: 37, expected: 36
+[Error  :ServersideQoL] [00:06:30.269] Version checks failed. Mod execution is stopped
+[Info   :ServersideQoL] [00:06:35.299] Enabled: True, DiagnosticLogs: False
+[Warning:ServersideQoL] [00:06:35.299] Unsupported network version: 36, expected: 35
+[Warning:ServersideQoL] [00:06:35.299] Unsupported world version: 37, expected: 36
+[Error  :ServersideQoL] [00:06:35.299] Version checks failed. Mod execution is stopped
+[Info   :ServersideQoL] [00:06:40.330] Enabled: True, DiagnosticLogs: False
+[Warning:ServersideQoL] [00:06:40.331] Unsupported network version: 36, expected: 35
+[Warning:ServersideQoL] [00:06:40.331] Unsupported world version: 37, expected: 36
+[Error  :ServersideQoL] [00:06:40.331] Version checks failed. Mod execution is stopped
+[Info   : Unity Log] 02/11/2026 19:14:50: Game - OnApplicationQuit
 
-[Info   : Unity Log] 02/11/2026 19:06:53: Available space to current user: 16855728128. Saving is blocked if below: 12497544 bytes. Warnings are given if below: 24995088
+[Info   : Unity Log] 02/11/2026 19:14:50: Available space to current user: 16855580672. Saving is blocked if below: 12497476 bytes. Warnings are given if below: 24994952
 
-[Info   : Unity Log] 02/11/2026 19:06:53: Shutting down
+[Info   : Unity Log] 02/11/2026 19:14:50: Shutting down
 
-[Info   : Unity Log] 02/11/2026 19:06:53: ZNet Shutdown
+[Info   : Unity Log] 02/11/2026 19:14:50: ZNet Shutdown
 
-[Info   : Unity Log] 02/11/2026 19:06:53: PrepareSave: clone done in 22ms
+[Info   : Unity Log] 02/11/2026 19:14:50: PrepareSave: clone done in 20ms
 
-[Info   : Unity Log] 02/11/2026 19:06:53: PrepareSave: ZDOExtraData.PrepareSave done in 18 ms
+[Info   : Unity Log] 02/11/2026 19:14:50: PrepareSave: ZDOExtraData.PrepareSave done in 22 ms
 
-[Info   : Unity Log] 02/11/2026 19:06:53: Unloading unused assets
+[Info   : Unity Log] 02/11/2026 19:14:50: Unloading unused assets
 
-[Info   : Unity Log] 02/11/2026 19:06:53: Sending disconnect msg
+[Info   : Unity Log] 02/11/2026 19:14:50: Sending disconnect msg
 
 [Info   : Unity Log] ZPlayFabMatchmaking::UnregisterServer - unregistering server now. State: Uninitialized
-[Info   : Unity Log] 02/11/2026 19:06:53: Disposing socket
+[Info   : Unity Log] 02/11/2026 19:14:50: Disposing socket
 
-[Info   : Unity Log] 02/11/2026 19:06:53: Stopping listening socket
+[Info   : Unity Log] 02/11/2026 19:14:50: Stopping listening socket
 
-[Info   : Unity Log] 02/11/2026 19:06:53: Last socket, unregistering callback
+[Info   : Unity Log] 02/11/2026 19:14:50: Last socket, unregistering callback
 
-[Info   : Unity Log] 02/11/2026 19:06:53: ZSteamSocket  UnregisterGlobalCallbacks, existing sockets:0
+[Info   : Unity Log] 02/11/2026 19:14:50: ZSteamSocket  UnregisterGlobalCallbacks, existing sockets:0
 
-[Info   : Unity Log] 02/11/2026 19:06:53: Stopping build thread
+[Info   : Unity Log] 02/11/2026 19:14:50: Stopping build thread
 
-[Info   : Unity Log] 02/11/2026 19:06:56: ZNet OnDestroy
+[Info   : Unity Log] 02/11/2026 19:14:52: ZNet OnDestroy
 
-[Info   : Unity Log] 02/11/2026 19:06:56: Net scene destroyed
+[Info   : Unity Log] 02/11/2026 19:14:52: Net scene destroyed
 
-[Info   : Unity Log] 02/11/2026 19:06:56: Steam manager on destroy
+[Info   : Unity Log] 02/11/2026 19:14:52: Steam manager on destroy
 
