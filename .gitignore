@@ -10,3 +10,4 @@ steam_appid.txt
 *.x86_64
 valheim_server_Data
 doorstop_libs
+BepInEx
