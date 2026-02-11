@@ -1,0 +1,878 @@
+Mono path[0] = '/home/steam/valheim/valheim_server_Data/Managed'
+Mono config path = '/home/steam/valheim/valheim_server_Data/MonoBleedingEdge/etc'
+Failed to open plugin: /home/steam/valheim/valheim_server_Data/Plugins/libparty.so
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Initialize engine version: 6000.0.61f1 (74a0adb02c31)
+[Subsystems] Discovering subsystems at path /home/steam/valheim/valheim_server_Data/UnitySubsystems
+Forcing GfxDevice: Null
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+NullGfxDevice:
+    Version:  NULL 1.0 [1.0]
+    Renderer: Null Device
+    Vendor:   Unity Technologies
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.080 seconds
+- Finished resetting the current domain, in  0.001 seconds
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+UnloadTime: 0.159228 ms
+02/11/2026 02:34:30: Set background loading budget to Low
+02/11/2026 02:34:30: Loading first scene!
+02/11/2026 02:34:30: Preferences initialized! Activating first scene!
+Unloading 4 Unused Serialized files (Serialized files now loaded: 8)
+UnloadTime: 0.030998 ms
+02/11/2026 02:34:30: Can't return the graphics config when it's not loaded!
+02/11/2026 02:34:30: 
+02/11/2026 02:34:30: Starting to load scene:start.unity (169d7618616154c03be07e9ad3af5893)
+02/11/2026 02:34:30: Set background loading budget to Normal
+02/11/2026 02:34:30: Loaded localization file #0 - 'localization' language: 'English'
+02/11/2026 02:34:30: Loaded localization file #1 - 'localization_extra' language: 'English'
+02/11/2026 02:34:30: Loaded localization file #2 - 'heightmap_message' language: 'English'
+02/11/2026 02:34:30: Loaded localization file #3 - 'localization_witch' language: 'English'
+02/11/2026 02:34:30: Loaded localization file #4 - 'localization_ashlands' language: 'English'
+02/11/2026 02:34:30: Loaded localization file #5 - 'localization_captions' language: 'English'
+02/11/2026 02:34:30: Loaded localization file #6 - 'localization_combatupdate' language: 'English'
+02/11/2026 02:34:30: Loaded localization file #7 - 'localization_celebrationupdate' language: 'English'
+Unloading 172 unused Assets to reduce memory usage. Loaded Objects now: 2419.
+Total: 1.218865 ms (FindLiveObjects: 0.097072 ms CreateObjectMapping: 0.015899 ms MarkObjects: 1.004093 ms  DeleteObjects: 0.101651 ms)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+AsyncResourceUpload failed.
+AsyncResourceUpload failed.
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+Unloading 2 Unused Serialized files (Serialized files now loaded: 17)
+02/11/2026 02:34:34: Set background loading budget to High
+02/11/2026 02:34:34: GPU Device: 0000:0000 (Unknown)
+02/11/2026 02:34:40: Set background loading budget to Low
+UnloadTime: 7.138356 ms
+HDR Render Texture not supported, disabling HDR on reflection probe.
+02/11/2026 02:34:40: Missing audio clip in music respawn
+OnGUI function detected on MonoBehaviour, but not called, because IMGUI module is stripped.
+02/11/2026 02:34:40: Setting -logfile to: log.txt
+02/11/2026 02:34:40: Setting -savedir to: /home/steam/valheimsave
+02/11/2026 02:34:40: Get create world BonkTown
+02/11/2026 02:34:40: Setting world modifier: raids->less
+02/11/2026 02:34:40: Setting world modifier: resources->muchmore
+02/11/2026 02:34:40: Setting world modifier: portals->casual
+02/11/2026 02:34:40: Setting world modifier: deathpenalty->casual
+02/11/2026 02:34:40: Setting world modifier: combat->easy
+02/11/2026 02:34:40: Using environment steamid 892970
+02/11/2026 02:34:40: Using steam APPID:892970
+[S_API] SteamAPI_Init(): Loaded local 'steamclient.so' OK.
+Setting breakpad minidump AppID = 892970
+SteamInternal_SetMinidumpSteamID:  Caching Steam ID:  76561197960265728 [API loaded no]
+[S_API FAIL] Tried to access Steam interface SteamNetworkingUtils004 before SteamAPI_Init succeeded.
+02/11/2026 02:34:40: Server ID 90071992547409920
+02/11/2026 02:34:41: Authentication:k_ESteamNetworkingAvailability_Waiting
+02/11/2026 02:34:41: Steam game server initialized
+02/11/2026 02:34:41: Valheim version: l-0.221.10 (network version 36)
+02/11/2026 02:34:41: Worldgenerator version setup:2
+02/11/2026 02:34:41: Console: Valheim l-0.221.10 (network version 36)
+02/11/2026 02:34:41: Console: 
+02/11/2026 02:34:41: Console: type "help" - for commands
+02/11/2026 02:34:41: Console: 
+02/11/2026 02:34:41: Render threading mode:SingleThreaded
+OnGUI function detected on MonoBehaviour, but not called, because IMGUI module is stripped.
+02/11/2026 02:34:41: Builder started
+02/11/2026 02:34:41: Sending PlayFab login request (attempt 1)
+02/11/2026 02:34:41: Login postponed until ID has been set.
+The shader Hidden/Dof/DepthOfFieldHdr (UnityEngine.Shader) on effect Main Camera (UnityStandardAssets.ImageEffects.DepthOfField) is not supported on this platform!
+The image effect Main Camera (UnityStandardAssets.ImageEffects.DepthOfField) has been disabled as it's not supported on the current platform.
+The shader Hidden/SunShaftsComposite (UnityEngine.Shader) on effect Main Camera (UnityStandardAssets.ImageEffects.SunShafts) is not supported on this platform!
+The shader Hidden/SimpleClear (UnityEngine.Shader) on effect Main Camera (UnityStandardAssets.ImageEffects.SunShafts) is not supported on this platform!
+The image effect Main Camera (UnityStandardAssets.ImageEffects.SunShafts) has been disabled as it's not supported on the current platform.
+02/11/2026 02:34:41: DLL Not Found: This error usually occurs when you do not have the correct dependencies installed, and will prevent crossplay from working. The dependencies are different depending on which platform you play on.
+ For windows: You need VC++ Redistributables. https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170Linux: You need Pulse Audio. https://learn.microsoft.com/it-it/gaming/playfab/features/multiplayer/networking/linux-specific-requirementsSteam deck: Try using Proton Compatability Layer.Other platforms: If the issue persists, please report it as a bug.
+DllNotFoundException: party assembly:<unknown assembly> type:<unknown type> member:(null)
+  at (wrapper managed-to-native) PartyCSharpSDK.Interop.PFPInterop.PartyInitialize(byte[],PartyCSharpSDK.Interop.PARTY_HANDLE&)
+  at PartyCSharpSDK.SDK.PartyInitialize (System.String titleId, PartyCSharpSDK.PARTY_HANDLE& handle) [0x00006] in <3fe1c61dd78d4a2da22a92605f34ab1e>:0 
+  at PlayFab.Party.PlayFabMultiplayerManager.InitializeImpl () [0x000be] in <3fe1c61dd78d4a2da22a92605f34ab1e>:0 
+  at PlayFab.Party.PlayFabMultiplayerManager._Initialize () [0x0000a] in <3fe1c61dd78d4a2da22a92605f34ab1e>:0 
+  at PlayFab.Party.PlayFabMultiplayerManager.Start () [0x00000] in <3fe1c61dd78d4a2da22a92605f34ab1e>:0 
+
+02/11/2026 02:34:41: Starting music menu
+Unloading 93734 unused Assets to reduce memory usage. Loaded Objects now: 208665.
+Total: 78.218760 ms (FindLiveObjects: 12.616868 ms CreateObjectMapping: 15.250196 ms MarkObjects: 31.506358 ms  DeleteObjects: 18.844966 ms)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+Unloading 3 Unused Serialized files (Serialized files now loaded: 18)
+UnloadTime: 7.499683 ms
+HDR Render Texture not supported, disabling HDR on reflection probe.
+HDR Render Texture not supported, disabling HDR on reflection probe.
+02/11/2026 02:34:41: Audioman already exist, destroying self
+OnGUI function detected on MonoBehaviour, but not called, because IMGUI module is stripped.
+02/11/2026 02:34:41: Console: Valheim l-0.221.10 (network version 36)
+02/11/2026 02:34:41: Console: 
+02/11/2026 02:34:41: Console: type "help" - for commands
+02/11/2026 02:34:41: Console: 
+02/11/2026 02:34:41: isModded: False
+02/11/2026 02:34:41: Zonesystem Awake 56735
+02/11/2026 02:34:41: DungeonDB Awake 56735
+02/11/2026 02:34:41: Worldgenerator version setup:2
+flock /sys/devices/virtual/dmi/id/sys_vendor LOCK_SH failed. errno = 13flock /sys/devices/virtual/dmi/id/product_name LOCK_SH failed. errno = 13OnGUI function detected on MonoBehaviour, but not called, because IMGUI module is stripped.
+02/11/2026 02:34:43: Console: /w [text] - Whisper
+02/11/2026 02:34:43: Console: /s [text] - Shout
+02/11/2026 02:34:43: Console: /die - Kill yourself
+02/11/2026 02:34:43: Console: /resetspawn - Reset spawn point
+02/11/2026 02:34:43: Console: /[emote]
+02/11/2026 02:34:43: Console: Emotes: wave, sit, challenge, cheer, nonono, thumbsup, point, blowkiss, bow, cower, cry, despair, flex, comehere, headbang, kneel, laugh, roar, shrug, dance, relax, toast, rest, vibe, loveyou
+02/11/2026 02:34:43: Console: 
+Unloading 369 unused Assets to reduce memory usage. Loaded Objects now: 207615.
+Total: 50.968883 ms (FindLiveObjects: 7.802211 ms CreateObjectMapping: 9.095324 ms MarkObjects: 33.744085 ms  DeleteObjects: 0.326462 ms)
+
+02/11/2026 02:34:43: Zonesystem Start 56735
+02/11/2026 02:34:43: Added 3 locations, 0 vegetations, 0 environments, 0 biome env-setups, 0 clutter  from main
+02/11/2026 02:34:43: Added 1 locations, 0 vegetations, 2 environments, 0 biome env-setups, 0 clutter  from main
+02/11/2026 02:34:43: Added 27 locations, 25 vegetations, 5 environments, 1 biome env-setups, 3 clutter  from main
+02/11/2026 02:34:43: Added 4 locations, 0 vegetations, 1 environments, 0 biome env-setups, 0 clutter  from main
+02/11/2026 02:34:43: Added 25 locations, 33 vegetations, 8 environments, 2 biome env-setups, 2 clutter  from main
+02/11/2026 02:34:43: DungeonDB Start 56735
+02/11/2026 02:34:43: ZRpc timeout set to 30s 
+02/11/2026 02:34:43: ZNET START
+02/11/2026 02:34:43: Load world: BonkTown (BonkTown)
+02/11/2026 02:34:43: Loading 84382 zdos, my sessionID: 566110453, data version: 37
+02/11/2026 02:34:43: Loading in ZDOs
+02/11/2026 02:34:43: Adding to Dictionary
+02/11/2026 02:34:43: Adding to Sectors
+02/11/2026 02:34:43: Connecting Portals, Spawners & ZSyncTransforms
+ConnectSpawners => Connected 7 spawners and 38 'done' spawners.
+02/11/2026 02:34:43: Loaded 11424 locations
+02/11/2026 02:34:43: Unloading unused assets
+Unloading 1 Unused Serialized files (Serialized files now loaded: 18)
+02/11/2026 02:34:43: Registering lobby
+02/11/2026 02:34:43: Opened Steam server
+The shader Hidden/Dof/DepthOfFieldHdr (UnityEngine.Shader) on effect Main Camera (UnityStandardAssets.ImageEffects.DepthOfField) is not supported on this platform!
+The image effect Main Camera (UnityStandardAssets.ImageEffects.DepthOfField) has been disabled as it's not supported on the current platform.
+The shader Hidden/SunShaftsComposite (UnityEngine.Shader) on effect Main Camera (UnityStandardAssets.ImageEffects.SunShafts) is not supported on this platform!
+The shader Hidden/SimpleClear (UnityEngine.Shader) on effect Main Camera (UnityStandardAssets.ImageEffects.SunShafts) is not supported on this platform!
+The image effect Main Camera (UnityStandardAssets.ImageEffects.SunShafts) has been disabled as it's not supported on the current platform.
+02/11/2026 02:34:43: Game server connected
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 210606.
+Total: 48.274571 ms (FindLiveObjects: 10.370485 ms CreateObjectMapping: 7.857273 ms MarkObjects: 29.911498 ms  DeleteObjects: 0.134913 ms)
+
+02/11/2026 02:34:50: Got status changed msg k_ESteamNetworkingConnectionState_Connecting
+02/11/2026 02:34:50: New connection
+02/11/2026 02:34:50: Accepting connection k_EResultOK
+02/11/2026 02:34:50: Connecting to Steamworks.SteamNetworkingIdentity
+02/11/2026 02:34:50: Got status changed msg k_ESteamNetworkingConnectionState_Connected
+02/11/2026 02:34:50: Connected
+02/11/2026 02:34:50: Got connection SteamID 76561198028550379
+02/11/2026 02:34:50: Got handshake from client 76561198028550379
+02/11/2026 02:34:54: Network version check, their:36, mine:36
+02/11/2026 02:34:54: Server: New peer connected,sending global keys
+02/11/2026 02:35:07: Got status changed msg k_ESteamNetworkingConnectionState_Connecting
+02/11/2026 02:35:07: New connection
+02/11/2026 02:35:07: Accepting connection k_EResultOK
+02/11/2026 02:35:07: Connecting to Steamworks.SteamNetworkingIdentity
+02/11/2026 02:35:07: Got status changed msg k_ESteamNetworkingConnectionState_Connected
+02/11/2026 02:35:07: Connected
+02/11/2026 02:35:07: Got connection SteamID 76561199041136134
+02/11/2026 02:35:08: Got handshake from client 76561199041136134
+02/11/2026 02:35:10: Got character ZDOID from Bonkson : 2011178863:1
+02/11/2026 02:35:13: Network version check, their:36, mine:36
+02/11/2026 02:35:13: Server: New peer connected,sending global keys
+02/11/2026 02:35:29: Got character ZDOID from Odinstits : -336836994:3
+02/11/2026 02:35:46: Remote admin '76561198028550379' executed command 'devcommands' remotely.
+02/11/2026 02:35:46: Console: Dev commands: True
+02/11/2026 02:35:46: Console: WARNING: using any dev commands is not recommended and is done at your own risk.
+02/11/2026 02:35:50: Remote admin '76561198028550379' executed command 'devcommands' remotely.
+02/11/2026 02:35:50: Console: Dev commands: False
+02/11/2026 02:35:50: Console: WARNING: using any dev commands is not recommended and is done at your own risk.
+02/11/2026 02:36:09: Remote admin '76561198028550379' executed command 'resetkeys' remotely.
+02/11/2026 02:36:09: Console: 'resetkeys' is not valid in the current context.
+02/11/2026 02:36:31: Remote admin '76561198028550379' executed command 'devcommands' remotely.
+02/11/2026 02:36:31: Console: Dev commands: True
+02/11/2026 02:36:31: Console: WARNING: using any dev commands is not recommended and is done at your own risk.
+02/11/2026 02:37:09: Remote admin '76561198028550379' executed command 'devcommands' remotely.
+02/11/2026 02:37:09: Console: Dev commands: False
+02/11/2026 02:37:09: Console: WARNING: using any dev commands is not recommended and is done at your own risk.
+02/11/2026 02:37:14: Remote admin '76561198028550379' executed command 'resetworldkeys' remotely.
+02/11/2026 02:37:14: Console: Server keys cleared
+02/11/2026 02:37:27: Got status changed msg k_ESteamNetworkingConnectionState_Connecting
+02/11/2026 02:37:27: New connection
+02/11/2026 02:37:27: Accepting connection k_EResultOK
+02/11/2026 02:37:27: Connecting to Steamworks.SteamNetworkingIdentity
+02/11/2026 02:37:27: Got status changed msg k_ESteamNetworkingConnectionState_Connected
+02/11/2026 02:37:27: Connected
+02/11/2026 02:37:27: Got connection SteamID 76561197972428374
+02/11/2026 02:37:27: Got handshake from client 76561197972428374
+02/11/2026 02:37:40: Network version check, their:36, mine:36
+02/11/2026 02:37:40: Server: New peer connected,sending global keys
+02/11/2026 02:37:55: Remote admin '76561198028550379' executed command 'setkey SkillGainRate 150' remotely.
+02/11/2026 02:37:55: Console: 'setkey' is not valid in the current context.
+02/11/2026 02:37:57: Got character ZDOID from Knud HjImBoSoN : 600368432:1
+02/11/2026 02:39:59: Time 50439.9793907739, day:27    nextm:50670.0000107288  skipspeed:19.1683849962428
+02/11/2026 02:40:19: Available space to current user: 16862339072. Saving is blocked if below: 12376736 bytes. Warnings are given if below: 24753472
+02/11/2026 02:40:19: PrepareSave: clone done in 14ms
+02/11/2026 02:40:19: PrepareSave: ZDOExtraData.PrepareSave done in 19 ms
+02/11/2026 02:40:19: World save writing starting
+02/11/2026 02:40:19: World save writing started
+02/11/2026 02:40:19: Saved 84392 ZDOs
+02/11/2026 02:40:19: World save writing finishing
+02/11/2026 02:40:19: World save writing finished
+02/11/2026 02:40:19: World saved ( 146.997ms )
+02/11/2026 02:40:19: Considering autobackup. World time: 336.2199, short time: 7200, long time: 43200, backup count: 4
+02/11/2026 02:40:19: Skipping backup. World session not long enough.
+02/11/2026 02:44:43:  Connections 3 ZDOS:84422  sent:1017 recv:658
+02/11/2026 02:54:43:  Connections 3 ZDOS:84509  sent:432 recv:463
+02/11/2026 02:55:45: Got character ZDOID from Odinstits : 0:0
+02/11/2026 02:55:53: Got character ZDOID from Odinstits : -336836994:2658
+02/11/2026 02:56:22: Remote admin '76561198028550379' executed command 'setkey DeathKeepEquip' remotely.
+02/11/2026 02:56:22: Console: 'setkey' is not valid in the current context.
+02/11/2026 02:56:48: Remote admin '76561198028550379' executed command 'setworldmodifier Combat easy' remotely.
+02/11/2026 02:57:32: Remote admin '76561198028550379' executed command 'setworldmodifier DeathPenalty casual' remotely.
+02/11/2026 03:00:31: Remote admin '76561198028550379' executed command 'setworldmodifier Portals casual' remotely.
+02/11/2026 03:00:43: Remote admin '76561198028550379' executed command 'setworldmodifier Resources muchmore' remotely.
+02/11/2026 03:03:04: Got status changed msg k_ESteamNetworkingConnectionState_Connecting
+02/11/2026 03:03:04: New connection
+02/11/2026 03:03:04: Accepting connection k_EResultOK
+02/11/2026 03:03:04: Connecting to Steamworks.SteamNetworkingIdentity
+02/11/2026 03:03:04: Got status changed msg k_ESteamNetworkingConnectionState_Connected
+02/11/2026 03:03:04: Connected
+02/11/2026 03:03:04: Got connection SteamID 76561198835580114
+02/11/2026 03:03:04: Got handshake from client 76561198835580114
+02/11/2026 03:03:17: Network version check, their:36, mine:36
+02/11/2026 03:03:17: Server: New peer connected,sending global keys
+02/11/2026 03:03:34: Got character ZDOID from Elfderberry : 3589384554:4
+02/11/2026 03:04:43:  Connections 4 ZDOS:84571  sent:616 recv:1096
+02/11/2026 03:10:19: Available space to current user: 16862334976. Saving is blocked if below: 12375776 bytes. Warnings are given if below: 24751552
+02/11/2026 03:10:19: Sending message to save player profiles
+02/11/2026 03:10:19: Sent to 76561198028550379
+02/11/2026 03:10:19: Sent to 76561199041136134
+02/11/2026 03:10:19: Sent to 76561197972428374
+02/11/2026 03:10:19: Sent to 76561198835580114
+02/11/2026 03:10:19: PrepareSave: clone done in 19ms
+02/11/2026 03:10:19: PrepareSave: ZDOExtraData.PrepareSave done in 12 ms
+02/11/2026 03:10:19: World save writing starting
+02/11/2026 03:10:19: World save writing started
+02/11/2026 03:10:19: Saved 84548 ZDOs
+02/11/2026 03:10:19: World save writing finishing
+02/11/2026 03:10:19: World save writing finished
+02/11/2026 03:10:19: World saved ( 132.341ms )
+02/11/2026 03:10:19: Considering autobackup. World time: 2136.499, short time: 7200, long time: 43200, backup count: 4
+02/11/2026 03:10:19: No autobackup needed yet...
+02/11/2026 03:14:43:  Connections 4 ZDOS:84606  sent:579 recv:560
+02/11/2026 03:24:43:  Connections 4 ZDOS:84683  sent:813 recv:799
+02/11/2026 03:27:15: Remote admin '76561198028550379' executed command 'setkey StaminaRegenRate 150' remotely.
+02/11/2026 03:27:15: Console: 'setkey' is not valid in the current context.
+02/11/2026 03:32:03: Time 53775.5987843871, day:29    nextm:54270.0000107288  skipspeed:41.2001021951437
+02/11/2026 03:32:23: Available space to current user: 16862310400. Saving is blocked if below: 12425792 bytes. Warnings are given if below: 24851584
+02/11/2026 03:32:23: PrepareSave: clone done in 16ms
+02/11/2026 03:32:23: PrepareSave: ZDOExtraData.PrepareSave done in 12 ms
+02/11/2026 03:32:23: World save writing starting
+02/11/2026 03:32:23: World save writing started
+02/11/2026 03:32:23: Saved 84640 ZDOs
+02/11/2026 03:32:23: World save writing finishing
+02/11/2026 03:32:23: World save writing finished
+02/11/2026 03:32:23: World saved ( 146.103ms )
+02/11/2026 03:32:23: Considering autobackup. World time: 3460.179, short time: 7200, long time: 43200, backup count: 4
+02/11/2026 03:32:23: No autobackup needed yet...
+02/11/2026 03:34:43: Unloading unused assets
+02/11/2026 03:34:43:  Connections 4 ZDOS:84666  sent:994 recv:961
+Unloading 0 Unused Serialized files (Serialized files now loaded: 18)
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 208512.
+Total: 48.730306 ms (FindLiveObjects: 8.633599 ms CreateObjectMapping: 8.213151 ms MarkObjects: 31.742702 ms  DeleteObjects: 0.140533 ms)
+
+02/11/2026 03:40:25: Random event set:army_theelder
+02/11/2026 03:41:40: Got character ZDOID from Elfderberry : 0:0
+02/11/2026 03:41:48: Got character ZDOID from Elfderberry : 3589384554:3445
+02/11/2026 03:43:24: Got character ZDOID from Elfderberry : 0:0
+02/11/2026 03:43:32: Got character ZDOID from Elfderberry : 3589384554:3689
+02/11/2026 03:43:39: Found location of type GDKing
+02/11/2026 03:44:18: Got status changed msg k_ESteamNetworkingConnectionState_Connecting
+02/11/2026 03:44:18: New connection
+02/11/2026 03:44:18: Accepting connection k_EResultOK
+02/11/2026 03:44:18: Connecting to Steamworks.SteamNetworkingIdentity
+02/11/2026 03:44:18: Got status changed msg k_ESteamNetworkingConnectionState_Connected
+02/11/2026 03:44:18: Connected
+02/11/2026 03:44:18: Got connection SteamID 76561197999900085
+02/11/2026 03:44:18: Got handshake from client 76561197999900085
+02/11/2026 03:44:34: Network version check, their:36, mine:36
+02/11/2026 03:44:34: Server: New peer connected,sending global keys
+02/11/2026 03:44:43:  Connections 5 ZDOS:84710  sent:593 recv:1590
+02/11/2026 03:44:55: Got character ZDOID from Bean : -846145949:1
+02/11/2026 03:45:06: Got character ZDOID from Elfderberry : 0:0
+02/11/2026 03:45:14: Got character ZDOID from Elfderberry : 3589384554:3893
+02/11/2026 03:54:43:  Connections 5 ZDOS:84741  sent:758 recv:1303
+02/11/2026 03:58:17: Got character ZDOID from Bean : 0:0
+02/11/2026 03:58:25: Got character ZDOID from Bean : -846145949:2338
+02/11/2026 03:59:37: Time 55904.7793651856, day:30    nextm:56070.0000107288  skipspeed:13.768387128599
+02/11/2026 03:59:55: Available space to current user: 16862273536. Saving is blocked if below: 12440504 bytes. Warnings are given if below: 24881008
+02/11/2026 03:59:55: PrepareSave: clone done in 14ms
+02/11/2026 03:59:55: PrepareSave: ZDOExtraData.PrepareSave done in 16 ms
+02/11/2026 03:59:55: World save writing starting
+02/11/2026 03:59:55: World save writing started
+02/11/2026 03:59:55: Saved 84752 ZDOs
+02/11/2026 03:59:55: World save writing finishing
+02/11/2026 03:59:55: World save writing finished
+02/11/2026 03:59:55: World saved ( 139.404ms )
+02/11/2026 03:59:55: Considering autobackup. World time: 5112.198, short time: 7200, long time: 43200, backup count: 4
+02/11/2026 03:59:55: No autobackup needed yet...
+02/11/2026 04:04:43:  Connections 5 ZDOS:84751  sent:281 recv:1386
+02/11/2026 04:07:06: Remote admin '76561198028550379' executed command 'setkey StaminaRegenRate 300' remotely.
+02/11/2026 04:07:06: Console: 'setkey' is not valid in the current context.
+02/11/2026 04:14:43:  Connections 5 ZDOS:84887  sent:230 recv:1968
+02/11/2026 04:19:54: Found location of type GDKing
+02/11/2026 04:20:17: Found location of type GDKing
+02/11/2026 04:20:18: Got character ZDOID from Bonkson : 0:0
+02/11/2026 04:20:26: Got character ZDOID from Bonkson : 2011178863:12894
+02/11/2026 04:22:43: Time 57438.1194704846, day:31    nextm:57870.0000107288  skipspeed:35.9900450203568
+02/11/2026 04:23:03: Available space to current user: 16862244864. Saving is blocked if below: 12479740 bytes. Warnings are given if below: 24959480
+02/11/2026 04:23:03: PrepareSave: clone done in 17ms
+02/11/2026 04:23:03: PrepareSave: ZDOExtraData.PrepareSave done in 12 ms
+02/11/2026 04:23:03: World save writing starting
+02/11/2026 04:23:03: World save writing started
+02/11/2026 04:23:03: Saved 84927 ZDOs
+02/11/2026 04:23:03: World save writing finishing
+02/11/2026 04:23:03: World save writing finished
+02/11/2026 04:23:03: World saved ( 139.549ms )
+02/11/2026 04:23:03: Considering autobackup. World time: 6500.177, short time: 7200, long time: 43200, backup count: 4
+02/11/2026 04:23:03: Overwrite our newest autobackup since the second one isn't so old
+02/11/2026 04:23:03: Replacing backup file: BonkTown_backup_auto-20260211021206
+02/11/2026 04:23:03: Saving backup at: BonkTown_backup_auto-20260211042303
+02/11/2026 04:23:03: World auto backup saved ( 00:00:00.0028710ms )
+02/11/2026 04:24:43:  Connections 5 ZDOS:84926  sent:687 recv:1699
+02/11/2026 04:26:23: Random event set:army_theelder
+02/11/2026 04:27:20: Got character ZDOID from Elfderberry : 0:0
+02/11/2026 04:27:28: Got character ZDOID from Elfderberry : 3589384554:9343
+02/11/2026 04:29:42: Got character ZDOID from Elfderberry : 0:0
+02/11/2026 04:29:50: Got character ZDOID from Elfderberry : 3589384554:10223
+02/11/2026 04:30:57: Remote admin '76561198028550379' executed command 'setworldmodifier Raids less' remotely.
+02/11/2026 04:32:05: Got character ZDOID from Bonkson : 0:0
+02/11/2026 04:32:13: Got character ZDOID from Bonkson : 2011178863:13746
+02/11/2026 04:34:31: Got character ZDOID from Bonkson : 0:0
+02/11/2026 04:34:39: Got character ZDOID from Bonkson : 2011178863:13925
+02/11/2026 04:34:43: Unloading unused assets
+Unloading 0 Unused Serialized files (Serialized files now loaded: 18)
+02/11/2026 04:34:43:  Connections 5 ZDOS:84918  sent:698 recv:1987
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 208512.
+Total: 48.886528 ms (FindLiveObjects: 8.551425 ms CreateObjectMapping: 8.115518 ms MarkObjects: 32.117835 ms  DeleteObjects: 0.101270 ms)
+
+02/11/2026 04:44:43:  Connections 5 ZDOS:84980  sent:1109 recv:1378
+02/11/2026 04:46:53: Time 59300.8794457018, day:32    nextm:59670.0000107288  skipspeed:30.7600470855832
+02/11/2026 04:47:13: Available space to current user: 16862113792. Saving is blocked if below: 12532438 bytes. Warnings are given if below: 25064876
+02/11/2026 04:47:13: PrepareSave: clone done in 17ms
+02/11/2026 04:47:13: PrepareSave: ZDOExtraData.PrepareSave done in 13 ms
+02/11/2026 04:47:13: World save writing starting
+02/11/2026 04:47:13: World save writing started
+02/11/2026 04:47:13: Saved 84941 ZDOs
+02/11/2026 04:47:13: World save writing finishing
+02/11/2026 04:47:13: World save writing finished
+02/11/2026 04:47:13: World saved ( 131.299ms )
+02/11/2026 04:47:13: Considering autobackup. World time: 7950.177, short time: 7200, long time: 43200, backup count: 4
+02/11/2026 04:47:13: No autobackup needed yet...
+02/11/2026 04:54:43:  Connections 5 ZDOS:84918  sent:812 recv:1758
+02/11/2026 05:04:43:  Connections 5 ZDOS:84989  sent:977 recv:1688
+02/11/2026 05:12:43: Time 61201.0194061585, day:33    nextm:61470.0000107288  skipspeed:22.4150503808632
+02/11/2026 05:13:02: RPC_Disconnect
+02/11/2026 05:13:02: Destroying abandoned non persistent zdo 3589384554:16075 owner 3589384554
+02/11/2026 05:13:02: Destroying abandoned non persistent zdo 3589384554:16095 owner 3589384554
+02/11/2026 05:13:02: Destroying abandoned non persistent zdo 3589384554:16097 owner 3589384554
+02/11/2026 05:13:02: Destroying abandoned non persistent zdo 3589384554:16091 owner 3589384554
+02/11/2026 05:13:02: Destroying abandoned non persistent zdo 3589384554:15921 owner 3589384554
+02/11/2026 05:13:02: Destroying abandoned non persistent zdo 3589384554:16101 owner 3589384554
+02/11/2026 05:13:02: Destroying abandoned non persistent zdo 3589384554:16085 owner 3589384554
+02/11/2026 05:13:02: Destroying abandoned non persistent zdo 3589384554:16081 owner 3589384554
+02/11/2026 05:13:02: Destroying abandoned non persistent zdo 3589384554:13423 owner 3589384554
+02/11/2026 05:13:02: Destroying abandoned non persistent zdo 3589384554:16094 owner 3589384554
+02/11/2026 05:13:02: Destroying abandoned non persistent zdo 3589384554:16100 owner 3589384554
+02/11/2026 05:13:02: Destroying abandoned non persistent zdo 3589384554:16089 owner 3589384554
+02/11/2026 05:13:02: Destroying abandoned non persistent zdo 3589384554:16086 owner 3589384554
+02/11/2026 05:13:02: Destroying abandoned non persistent zdo 3589384554:13424 owner 3589384554
+02/11/2026 05:13:02: Destroying abandoned non persistent zdo 3589384554:16098 owner 3589384554
+02/11/2026 05:13:02: Destroying abandoned non persistent zdo 3589384554:16078 owner 3589384554
+02/11/2026 05:13:02: Destroying abandoned non persistent zdo 3589384554:13471 owner 3589384554
+02/11/2026 05:13:02: Destroying abandoned non persistent zdo 3589384554:10223 owner 3589384554
+02/11/2026 05:13:02: Destroying abandoned non persistent zdo 3589384554:16088 owner 3589384554
+02/11/2026 05:13:02: Destroying abandoned non persistent zdo 3589384554:16092 owner 3589384554
+02/11/2026 05:13:02: Disposing socket
+02/11/2026 05:13:02: Closing socket 76561198835580114
+02/11/2026 05:13:02:   send queue size:0
+02/11/2026 05:13:02: Disposing socket
+02/11/2026 05:13:02: Got status changed msg k_ESteamNetworkingConnectionState_ClosedByPeer
+02/11/2026 05:13:02: Socket closed by peer Steamworks.SteamNetConnectionStatusChangedCallback_t
+02/11/2026 05:13:02: Got status changed msg k_ESteamNetworkingConnectionState_None
+02/11/2026 05:13:03: RPC_Disconnect
+02/11/2026 05:13:03: Destroying abandoned non persistent zdo -336836994:2658 owner -336836994
+02/11/2026 05:13:03: Destroying abandoned non persistent zdo -336836994:15239 owner -336836994
+02/11/2026 05:13:03: Destroying abandoned non persistent zdo -336836994:15238 owner -336836994
+02/11/2026 05:13:03: Destroying abandoned non persistent zdo -336836994:15240 owner -336836994
+02/11/2026 05:13:03: Disposing socket
+02/11/2026 05:13:03: Closing socket 76561199041136134
+02/11/2026 05:13:03:   send queue size:0
+02/11/2026 05:13:03: Disposing socket
+02/11/2026 05:13:03: Got status changed msg k_ESteamNetworkingConnectionState_ClosedByPeer
+02/11/2026 05:13:03: Socket closed by peer Steamworks.SteamNetConnectionStatusChangedCallback_t
+02/11/2026 05:13:03: Got status changed msg k_ESteamNetworkingConnectionState_None
+02/11/2026 05:13:03: Available space to current user: 16862085120. Saving is blocked if below: 12530562 bytes. Warnings are given if below: 25061124
+02/11/2026 05:13:03: PrepareSave: clone done in 18ms
+02/11/2026 05:13:03: PrepareSave: ZDOExtraData.PrepareSave done in 11 ms
+02/11/2026 05:13:03: World save writing starting
+02/11/2026 05:13:03: World save writing started
+02/11/2026 05:13:03: Saved 84894 ZDOs
+02/11/2026 05:13:03: World save writing finishing
+02/11/2026 05:13:03: World save writing finished
+02/11/2026 05:13:03: World saved ( 131.763ms )
+02/11/2026 05:13:03: Considering autobackup. World time: 9500.197, short time: 7200, long time: 43200, backup count: 4
+02/11/2026 05:13:03: No autobackup needed yet...
+02/11/2026 05:13:12: RPC_Disconnect
+02/11/2026 05:13:12: Destroying abandoned non persistent zdo -846145949:9693 owner -846145949
+02/11/2026 05:13:12: Destroying abandoned non persistent zdo -846145949:9729 owner -846145949
+02/11/2026 05:13:12: Destroying abandoned non persistent zdo -846145949:2338 owner -846145949
+02/11/2026 05:13:12: Destroying abandoned non persistent zdo -846145949:9726 owner -846145949
+02/11/2026 05:13:12: Destroying abandoned non persistent zdo -846145949:10520 owner -846145949
+02/11/2026 05:13:12: Destroying abandoned non persistent zdo -846145949:10519 owner -846145949
+02/11/2026 05:13:12: Destroying abandoned non persistent zdo -846145949:10518 owner -846145949
+02/11/2026 05:13:12: Destroying abandoned non persistent zdo -846145949:9694 owner -846145949
+02/11/2026 05:13:12: Destroying abandoned non persistent zdo -846145949:10521 owner -846145949
+02/11/2026 05:13:12: Disposing socket
+02/11/2026 05:13:12: Closing socket 76561197999900085
+02/11/2026 05:13:12:   send queue size:0
+02/11/2026 05:13:12: Disposing socket
+02/11/2026 05:13:12: Got status changed msg k_ESteamNetworkingConnectionState_ClosedByPeer
+02/11/2026 05:13:12: Socket closed by peer Steamworks.SteamNetConnectionStatusChangedCallback_t
+02/11/2026 05:13:12: Got status changed msg k_ESteamNetworkingConnectionState_None
+02/11/2026 05:13:14: RPC_Disconnect
+02/11/2026 05:13:14: Destroying abandoned non persistent zdo 2011178863:17586 owner 2011178863
+02/11/2026 05:13:14: Destroying abandoned non persistent zdo 2011178863:17646 owner 2011178863
+02/11/2026 05:13:14: Destroying abandoned non persistent zdo 2011178863:17587 owner 2011178863
+02/11/2026 05:13:14: Destroying abandoned non persistent zdo 2011178863:13925 owner 2011178863
+02/11/2026 05:13:14: Destroying abandoned non persistent zdo 2011178863:17585 owner 2011178863
+02/11/2026 05:13:14: Disposing socket
+02/11/2026 05:13:14: Closing socket 76561198028550379
+02/11/2026 05:13:14:   send queue size:0
+02/11/2026 05:13:14: Disposing socket
+02/11/2026 05:13:14: Got status changed msg k_ESteamNetworkingConnectionState_ClosedByPeer
+02/11/2026 05:13:14: Socket closed by peer Steamworks.SteamNetConnectionStatusChangedCallback_t
+02/11/2026 05:13:14: Got status changed msg k_ESteamNetworkingConnectionState_None
+02/11/2026 05:13:43: RPC_Disconnect
+02/11/2026 05:13:43: Destroying abandoned non persistent zdo 600368432:19042 owner 600368432
+02/11/2026 05:13:43: Destroying abandoned non persistent zdo 600368432:18927 owner 600368432
+02/11/2026 05:13:43: Destroying abandoned non persistent zdo 600368432:1 owner 600368432
+02/11/2026 05:13:43: Destroying abandoned non persistent zdo 600368432:19041 owner 600368432
+02/11/2026 05:13:43: Destroying abandoned non persistent zdo 600368432:19038 owner 600368432
+02/11/2026 05:13:43: Destroying abandoned non persistent zdo 600368432:19043 owner 600368432
+02/11/2026 05:13:43: Destroying abandoned non persistent zdo 600368432:18926 owner 600368432
+02/11/2026 05:13:43: Destroying abandoned non persistent zdo 600368432:18928 owner 600368432
+02/11/2026 05:13:43: Destroying abandoned non persistent zdo 600368432:19040 owner 600368432
+02/11/2026 05:13:43: Disposing socket
+02/11/2026 05:13:43: Closing socket 76561197972428374
+02/11/2026 05:13:43:   send queue size:0
+02/11/2026 05:13:43: Disposing socket
+02/11/2026 05:13:43: Got status changed msg k_ESteamNetworkingConnectionState_ClosedByPeer
+02/11/2026 05:13:43: Socket closed by peer Steamworks.SteamNetConnectionStatusChangedCallback_t
+02/11/2026 05:13:43: Got status changed msg k_ESteamNetworkingConnectionState_None
+02/11/2026 05:14:43:  Connections 0 ZDOS:84898  sent:0 recv:0
+02/11/2026 05:24:43:  Connections 0 ZDOS:84898  sent:0 recv:0
+02/11/2026 05:34:43: Unloading unused assets
+02/11/2026 05:34:43:  Connections 0 ZDOS:84898  sent:0 recv:0
+Unloading 0 Unused Serialized files (Serialized files now loaded: 18)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 208512.
+Total: 45.791414 ms (FindLiveObjects: 8.478378 ms CreateObjectMapping: 8.247876 ms MarkObjects: 28.969972 ms  DeleteObjects: 0.094768 ms)
+
+02/11/2026 05:43:03: Available space to current user: 16862089216. Saving is blocked if below: 12513398 bytes. Warnings are given if below: 25026796
+02/11/2026 05:43:03: Sending message to save player profiles
+02/11/2026 05:43:03: PrepareSave: clone done in 17ms
+02/11/2026 05:43:03: PrepareSave: ZDOExtraData.PrepareSave done in 12 ms
+02/11/2026 05:43:03: World save writing starting
+02/11/2026 05:43:03: World save writing started
+02/11/2026 05:43:03: Saved 84898 ZDOs
+02/11/2026 05:43:03: World save writing finishing
+02/11/2026 05:43:03: World save writing finished
+02/11/2026 05:43:03: World saved ( 151.707ms )
+02/11/2026 05:43:03: Considering autobackup. World time: 11300.22, short time: 7200, long time: 43200, backup count: 4
+02/11/2026 05:43:03: No autobackup needed yet...
+02/11/2026 05:44:43:  Connections 0 ZDOS:84898  sent:0 recv:0
+02/11/2026 05:54:43:  Connections 0 ZDOS:84898  sent:0 recv:0
+02/11/2026 06:04:43:  Connections 0 ZDOS:84898  sent:0 recv:0
+02/11/2026 06:13:03: Available space to current user: 16862097408. Saving is blocked if below: 12514504 bytes. Warnings are given if below: 25029008
+02/11/2026 06:13:03: Sending message to save player profiles
+02/11/2026 06:13:03: PrepareSave: clone done in 17ms
+02/11/2026 06:13:03: PrepareSave: ZDOExtraData.PrepareSave done in 12 ms
+02/11/2026 06:13:03: World save writing starting
+02/11/2026 06:13:03: World save writing started
+02/11/2026 06:13:03: Saved 84898 ZDOs
+02/11/2026 06:13:03: World save writing finishing
+02/11/2026 06:13:03: World save writing finished
+02/11/2026 06:13:03: World saved ( 129.192ms )
+02/11/2026 06:13:03: Considering autobackup. World time: 13100.24, short time: 7200, long time: 43200, backup count: 4
+02/11/2026 06:13:03: No autobackup needed yet...
+02/11/2026 06:14:43:  Connections 0 ZDOS:84898  sent:0 recv:0
+02/11/2026 06:24:43:  Connections 0 ZDOS:84898  sent:0 recv:0
+02/11/2026 06:34:43: Unloading unused assets
+02/11/2026 06:34:43:  Connections 0 ZDOS:84898  sent:0 recv:0
+Unloading 0 Unused Serialized files (Serialized files now loaded: 18)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 208512.
+Total: 44.725485 ms (FindLiveObjects: 8.558808 ms CreateObjectMapping: 8.049194 ms MarkObjects: 27.944178 ms  DeleteObjects: 0.172984 ms)
+
+02/11/2026 06:43:03: Available space to current user: 16862097408. Saving is blocked if below: 12514504 bytes. Warnings are given if below: 25029008
+02/11/2026 06:43:03: Sending message to save player profiles
+02/11/2026 06:43:03: PrepareSave: clone done in 14ms
+02/11/2026 06:43:03: PrepareSave: ZDOExtraData.PrepareSave done in 13 ms
+02/11/2026 06:43:03: World save writing starting
+02/11/2026 06:43:03: World save writing started
+02/11/2026 06:43:03: Saved 84898 ZDOs
+02/11/2026 06:43:03: World save writing finishing
+02/11/2026 06:43:03: World save writing finished
+02/11/2026 06:43:03: World saved ( 154.901ms )
+02/11/2026 06:43:03: Considering autobackup. World time: 14900.33, short time: 7200, long time: 43200, backup count: 4
+02/11/2026 06:43:03: Time to overwrite our last autobackup
+02/11/2026 06:43:03: Replacing backup file: BonkTown_backup_auto-20260209203946
+02/11/2026 06:43:03: Saving backup at: BonkTown_backup_auto-20260211064303
+02/11/2026 06:43:03: World auto backup saved ( 00:00:00.0012240ms )
+02/11/2026 06:44:43:  Connections 0 ZDOS:84898  sent:0 recv:0
+02/11/2026 06:54:43:  Connections 0 ZDOS:84898  sent:0 recv:0
+02/11/2026 07:04:43:  Connections 0 ZDOS:84898  sent:0 recv:0
+02/11/2026 07:13:03: Available space to current user: 16862023680. Saving is blocked if below: 12514504 bytes. Warnings are given if below: 25029008
+02/11/2026 07:13:03: Sending message to save player profiles
+02/11/2026 07:13:03: PrepareSave: clone done in 18ms
+02/11/2026 07:13:03: PrepareSave: ZDOExtraData.PrepareSave done in 13 ms
+02/11/2026 07:13:03: World save writing starting
+02/11/2026 07:13:03: World save writing started
+02/11/2026 07:13:03: Saved 84898 ZDOs
+02/11/2026 07:13:03: World save writing finishing
+02/11/2026 07:13:03: World save writing finished
+02/11/2026 07:13:03: World saved ( 132.961ms )
+02/11/2026 07:13:03: Considering autobackup. World time: 16700.37, short time: 7200, long time: 43200, backup count: 4
+02/11/2026 07:13:03: No autobackup needed yet...
+02/11/2026 07:14:43:  Connections 0 ZDOS:84898  sent:0 recv:0
+02/11/2026 07:24:43:  Connections 0 ZDOS:84898  sent:0 recv:0
+02/11/2026 07:34:43: Unloading unused assets
+02/11/2026 07:34:43:  Connections 0 ZDOS:84898  sent:0 recv:0
+Unloading 0 Unused Serialized files (Serialized files now loaded: 18)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 208512.
+Total: 48.486047 ms (FindLiveObjects: 8.649018 ms CreateObjectMapping: 8.351279 ms MarkObjects: 31.317955 ms  DeleteObjects: 0.167374 ms)
+
+02/11/2026 07:43:03: Available space to current user: 16862023680. Saving is blocked if below: 12514504 bytes. Warnings are given if below: 25029008
+02/11/2026 07:43:03: Sending message to save player profiles
+02/11/2026 07:43:03: PrepareSave: clone done in 17ms
+02/11/2026 07:43:03: PrepareSave: ZDOExtraData.PrepareSave done in 13 ms
+02/11/2026 07:43:03: World save writing starting
+02/11/2026 07:43:03: World save writing started
+02/11/2026 07:43:03: Saved 84898 ZDOs
+02/11/2026 07:43:03: World save writing finishing
+02/11/2026 07:43:03: World save writing finished
+02/11/2026 07:43:03: World saved ( 172.393ms )
+02/11/2026 07:43:03: Considering autobackup. World time: 18500.49, short time: 7200, long time: 43200, backup count: 4
+02/11/2026 07:43:03: No autobackup needed yet...
+02/11/2026 07:44:43:  Connections 0 ZDOS:84898  sent:0 recv:0
+02/11/2026 07:54:43:  Connections 0 ZDOS:84898  sent:0 recv:0
+02/11/2026 08:04:43:  Connections 0 ZDOS:84898  sent:0 recv:0
+02/11/2026 08:13:03: Available space to current user: 16862023680. Saving is blocked if below: 12514504 bytes. Warnings are given if below: 25029008
+02/11/2026 08:13:03: Sending message to save player profiles
+02/11/2026 08:13:03: PrepareSave: clone done in 15ms
+02/11/2026 08:13:03: PrepareSave: ZDOExtraData.PrepareSave done in 15 ms
+02/11/2026 08:13:03: World save writing starting
+02/11/2026 08:13:03: World save writing started
+02/11/2026 08:13:03: Saved 84898 ZDOs
+02/11/2026 08:13:03: World save writing finishing
+02/11/2026 08:13:03: World save writing finished
+02/11/2026 08:13:03: World saved ( 128.093ms )
+02/11/2026 08:13:03: Considering autobackup. World time: 20300.51, short time: 7200, long time: 43200, backup count: 4
+02/11/2026 08:13:03: No autobackup needed yet...
+02/11/2026 08:14:43:  Connections 0 ZDOS:84898  sent:0 recv:0
+02/11/2026 08:24:43:  Connections 0 ZDOS:84898  sent:0 recv:0
+02/11/2026 08:34:43: Unloading unused assets
+02/11/2026 08:34:43:  Connections 0 ZDOS:84898  sent:0 recv:0
+Unloading 0 Unused Serialized files (Serialized files now loaded: 18)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 208512.
+Total: 45.780654 ms (FindLiveObjects: 8.622689 ms CreateObjectMapping: 8.720011 ms MarkObjects: 28.335102 ms  DeleteObjects: 0.102382 ms)
+
+02/11/2026 08:43:03: Available space to current user: 16862019584. Saving is blocked if below: 12514504 bytes. Warnings are given if below: 25029008
+02/11/2026 08:43:03: Sending message to save player profiles
+02/11/2026 08:43:03: PrepareSave: clone done in 17ms
+02/11/2026 08:43:03: PrepareSave: ZDOExtraData.PrepareSave done in 13 ms
+02/11/2026 08:43:03: World save writing starting
+02/11/2026 08:43:03: World save writing started
+02/11/2026 08:43:04: Saved 84898 ZDOs
+02/11/2026 08:43:04: World save writing finishing
+02/11/2026 08:43:04: World save writing finished
+02/11/2026 08:43:04: World saved ( 152.037ms )
+02/11/2026 08:43:04: Considering autobackup. World time: 22100.63, short time: 7200, long time: 43200, backup count: 4
+02/11/2026 08:43:04: Overwrite our newest autobackup since the second one isn't so old
+02/11/2026 08:43:04: Replacing backup file: BonkTown_backup_auto-20260211064303
+02/11/2026 08:43:04: Saving backup at: BonkTown_backup_auto-20260211084303
+02/11/2026 08:43:04: World auto backup saved ( 00:00:00.0013530ms )
+02/11/2026 08:44:43:  Connections 0 ZDOS:84898  sent:0 recv:0
+02/11/2026 08:54:43:  Connections 0 ZDOS:84898  sent:0 recv:0
+02/11/2026 09:04:43:  Connections 0 ZDOS:84898  sent:0 recv:0
+02/11/2026 09:13:03: Available space to current user: 16862019584. Saving is blocked if below: 12514504 bytes. Warnings are given if below: 25029008
+02/11/2026 09:13:03: Sending message to save player profiles
+02/11/2026 09:13:03: PrepareSave: clone done in 15ms
+02/11/2026 09:13:03: PrepareSave: ZDOExtraData.PrepareSave done in 15 ms
+02/11/2026 09:13:03: World save writing starting
+02/11/2026 09:13:03: World save writing started
+02/11/2026 09:13:04: Saved 84898 ZDOs
+02/11/2026 09:13:04: World save writing finishing
+02/11/2026 09:13:04: World save writing finished
+02/11/2026 09:13:04: World saved ( 129.278ms )
+02/11/2026 09:13:04: Considering autobackup. World time: 23900.65, short time: 7200, long time: 43200, backup count: 4
+02/11/2026 09:13:04: No autobackup needed yet...
+02/11/2026 09:14:43:  Connections 0 ZDOS:84898  sent:0 recv:0
+02/11/2026 09:24:43:  Connections 0 ZDOS:84898  sent:0 recv:0
+02/11/2026 09:34:43: Unloading unused assets
+Unloading 0 Unused Serialized files (Serialized files now loaded: 18)
+02/11/2026 09:34:43:  Connections 0 ZDOS:84898  sent:0 recv:0
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 208512.
+Total: 45.923663 ms (FindLiveObjects: 8.418416 ms CreateObjectMapping: 8.076584 ms MarkObjects: 29.324197 ms  DeleteObjects: 0.103965 ms)
+
+02/11/2026 09:43:03: Available space to current user: 16862019584. Saving is blocked if below: 12514504 bytes. Warnings are given if below: 25029008
+02/11/2026 09:43:03: Sending message to save player profiles
+02/11/2026 09:43:03: PrepareSave: clone done in 17ms
+02/11/2026 09:43:03: PrepareSave: ZDOExtraData.PrepareSave done in 12 ms
+02/11/2026 09:43:03: World save writing starting
+02/11/2026 09:43:03: World save writing started
+02/11/2026 09:43:04: Saved 84898 ZDOs
+02/11/2026 09:43:04: World save writing finishing
+02/11/2026 09:43:04: World save writing finished
+02/11/2026 09:43:04: World saved ( 144.021ms )
+02/11/2026 09:43:04: Considering autobackup. World time: 25700.69, short time: 7200, long time: 43200, backup count: 4
+02/11/2026 09:43:04: No autobackup needed yet...
+02/11/2026 09:44:43:  Connections 0 ZDOS:84898  sent:0 recv:0
+02/11/2026 09:54:43:  Connections 0 ZDOS:84898  sent:0 recv:0
+02/11/2026 10:04:43:  Connections 0 ZDOS:84898  sent:0 recv:0
+02/11/2026 10:13:04: Available space to current user: 16862019584. Saving is blocked if below: 12514504 bytes. Warnings are given if below: 25029008
+02/11/2026 10:13:04: Sending message to save player profiles
+02/11/2026 10:13:04: PrepareSave: clone done in 15ms
+02/11/2026 10:13:04: PrepareSave: ZDOExtraData.PrepareSave done in 15 ms
+02/11/2026 10:13:04: World save writing starting
+02/11/2026 10:13:04: World save writing started
+02/11/2026 10:13:04: Saved 84898 ZDOs
+02/11/2026 10:13:04: World save writing finishing
+02/11/2026 10:13:04: World save writing finished
+02/11/2026 10:13:04: World saved ( 130.473ms )
+02/11/2026 10:13:04: Considering autobackup. World time: 27500.79, short time: 7200, long time: 43200, backup count: 4
+02/11/2026 10:13:04: No autobackup needed yet...
+02/11/2026 10:14:43:  Connections 0 ZDOS:84898  sent:0 recv:0
+02/11/2026 10:24:43:  Connections 0 ZDOS:84898  sent:0 recv:0
+02/11/2026 10:34:43: Unloading unused assets
+02/11/2026 10:34:43:  Connections 0 ZDOS:84898  sent:0 recv:0
+Unloading 0 Unused Serialized files (Serialized files now loaded: 18)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 208512.
+Total: 46.842625 ms (FindLiveObjects: 8.541887 ms CreateObjectMapping: 8.341832 ms MarkObjects: 29.850142 ms  DeleteObjects: 0.108273 ms)
+
+02/11/2026 10:43:04: Available space to current user: 16862015488. Saving is blocked if below: 12514504 bytes. Warnings are given if below: 25029008
+02/11/2026 10:43:04: Sending message to save player profiles
+02/11/2026 10:43:04: PrepareSave: clone done in 17ms
+02/11/2026 10:43:04: PrepareSave: ZDOExtraData.PrepareSave done in 13 ms
+02/11/2026 10:43:04: World save writing starting
+02/11/2026 10:43:04: World save writing started
+02/11/2026 10:43:04: Saved 84898 ZDOs
+02/11/2026 10:43:04: World save writing finishing
+02/11/2026 10:43:04: World save writing finished
+02/11/2026 10:43:04: World saved ( 145.972ms )
+02/11/2026 10:43:04: Considering autobackup. World time: 29300.91, short time: 7200, long time: 43200, backup count: 4
+02/11/2026 10:43:04: Overwrite our newest autobackup since the second one isn't so old
+02/11/2026 10:43:04: Replacing backup file: BonkTown_backup_auto-20260211084303
+02/11/2026 10:43:04: Saving backup at: BonkTown_backup_auto-20260211104304
+02/11/2026 10:43:04: World auto backup saved ( 00:00:00.0017550ms )
+02/11/2026 10:44:43:  Connections 0 ZDOS:84898  sent:0 recv:0
+02/11/2026 10:54:43:  Connections 0 ZDOS:84898  sent:0 recv:0
+02/11/2026 11:04:43:  Connections 0 ZDOS:84898  sent:0 recv:0
+02/11/2026 11:13:04: Available space to current user: 16862015488. Saving is blocked if below: 12514504 bytes. Warnings are given if below: 25029008
+02/11/2026 11:13:04: Sending message to save player profiles
+02/11/2026 11:13:04: PrepareSave: clone done in 15ms
+02/11/2026 11:13:04: PrepareSave: ZDOExtraData.PrepareSave done in 15 ms
+02/11/2026 11:13:04: World save writing starting
+02/11/2026 11:13:04: World save writing started
+02/11/2026 11:13:04: Saved 84898 ZDOs
+02/11/2026 11:13:04: World save writing finishing
+02/11/2026 11:13:04: World save writing finished
+02/11/2026 11:13:04: World saved ( 132.163ms )
+02/11/2026 11:13:04: Considering autobackup. World time: 31100.95, short time: 7200, long time: 43200, backup count: 4
+02/11/2026 11:13:04: No autobackup needed yet...
+02/11/2026 11:14:43:  Connections 0 ZDOS:84898  sent:0 recv:0
+02/11/2026 11:24:43:  Connections 0 ZDOS:84898  sent:0 recv:0
+02/11/2026 11:34:43: Unloading unused assets
+02/11/2026 11:34:43:  Connections 0 ZDOS:84898  sent:0 recv:0
+Unloading 0 Unused Serialized files (Serialized files now loaded: 18)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 208512.
+Total: 46.270313 ms (FindLiveObjects: 8.531638 ms CreateObjectMapping: 7.881860 ms MarkObjects: 29.752209 ms  DeleteObjects: 0.104076 ms)
+
+02/11/2026 11:43:04: Available space to current user: 16862015488. Saving is blocked if below: 12514504 bytes. Warnings are given if below: 25029008
+02/11/2026 11:43:04: Sending message to save player profiles
+02/11/2026 11:43:04: PrepareSave: clone done in 17ms
+02/11/2026 11:43:04: PrepareSave: ZDOExtraData.PrepareSave done in 12 ms
+02/11/2026 11:43:04: World save writing starting
+02/11/2026 11:43:04: World save writing started
+02/11/2026 11:43:04: Saved 84898 ZDOs
+02/11/2026 11:43:04: World save writing finishing
+02/11/2026 11:43:04: World save writing finished
+02/11/2026 11:43:04: World saved ( 146.972ms )
+02/11/2026 11:43:04: Considering autobackup. World time: 32901.07, short time: 7200, long time: 43200, backup count: 4
+02/11/2026 11:43:04: No autobackup needed yet...
+02/11/2026 11:44:43:  Connections 0 ZDOS:84898  sent:0 recv:0
+02/11/2026 11:54:43:  Connections 0 ZDOS:84898  sent:0 recv:0
+02/11/2026 12:04:43:  Connections 0 ZDOS:84898  sent:0 recv:0
+02/11/2026 12:13:04: Available space to current user: 16862011392. Saving is blocked if below: 12514504 bytes. Warnings are given if below: 25029008
+02/11/2026 12:13:04: Sending message to save player profiles
+02/11/2026 12:13:04: PrepareSave: clone done in 15ms
+02/11/2026 12:13:04: PrepareSave: ZDOExtraData.PrepareSave done in 15 ms
+02/11/2026 12:13:04: World save writing starting
+02/11/2026 12:13:04: World save writing started
+02/11/2026 12:13:04: Saved 84898 ZDOs
+02/11/2026 12:13:04: World save writing finishing
+02/11/2026 12:13:04: World save writing finished
+02/11/2026 12:13:04: World saved ( 132.134ms )
+02/11/2026 12:13:04: Considering autobackup. World time: 34701.11, short time: 7200, long time: 43200, backup count: 4
+02/11/2026 12:13:04: No autobackup needed yet...
+02/11/2026 12:14:43:  Connections 0 ZDOS:84898  sent:0 recv:0
+02/11/2026 12:24:43:  Connections 0 ZDOS:84898  sent:0 recv:0
+02/11/2026 12:34:43: Unloading unused assets
+Unloading 0 Unused Serialized files (Serialized files now loaded: 18)
+02/11/2026 12:34:43:  Connections 0 ZDOS:84898  sent:0 recv:0
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 208512.
+Total: 49.800733 ms (FindLiveObjects: 8.449294 ms CreateObjectMapping: 8.042961 ms MarkObjects: 33.209091 ms  DeleteObjects: 0.098584 ms)
+
+02/11/2026 12:43:04: Available space to current user: 16862011392. Saving is blocked if below: 12514504 bytes. Warnings are given if below: 25029008
+02/11/2026 12:43:04: Sending message to save player profiles
+02/11/2026 12:43:04: PrepareSave: clone done in 14ms
+02/11/2026 12:43:04: PrepareSave: ZDOExtraData.PrepareSave done in 15 ms
+02/11/2026 12:43:04: World save writing starting
+02/11/2026 12:43:04: World save writing started
+02/11/2026 12:43:04: Saved 84898 ZDOs
+02/11/2026 12:43:04: World save writing finishing
+02/11/2026 12:43:04: World save writing finished
+02/11/2026 12:43:04: World saved ( 142.361ms )
+02/11/2026 12:43:04: Considering autobackup. World time: 36501.19, short time: 7200, long time: 43200, backup count: 4
+02/11/2026 12:43:04: Overwrite our newest autobackup since the second one isn't so old
+02/11/2026 12:43:04: Replacing backup file: BonkTown_backup_auto-20260211104304
+02/11/2026 12:43:04: Saving backup at: BonkTown_backup_auto-20260211124304
+02/11/2026 12:43:04: World auto backup saved ( 00:00:00.0012910ms )
+02/11/2026 12:44:43:  Connections 0 ZDOS:84898  sent:0 recv:0
+02/11/2026 12:54:43:  Connections 0 ZDOS:84898  sent:0 recv:0
+02/11/2026 13:04:43:  Connections 0 ZDOS:84898  sent:0 recv:0
+02/11/2026 13:13:04: Available space to current user: 16862011392. Saving is blocked if below: 12514504 bytes. Warnings are given if below: 25029008
+02/11/2026 13:13:04: Sending message to save player profiles
+02/11/2026 13:13:04: PrepareSave: clone done in 15ms
+02/11/2026 13:13:04: PrepareSave: ZDOExtraData.PrepareSave done in 16 ms
+02/11/2026 13:13:04: World save writing starting
+02/11/2026 13:13:04: World save writing started
+02/11/2026 13:13:04: Saved 84898 ZDOs
+02/11/2026 13:13:04: World save writing finishing
+02/11/2026 13:13:04: World save writing finished
+02/11/2026 13:13:04: World saved ( 130.575ms )
+02/11/2026 13:13:04: Considering autobackup. World time: 38301.27, short time: 7200, long time: 43200, backup count: 4
+02/11/2026 13:13:04: No autobackup needed yet...
+02/11/2026 13:14:43:  Connections 0 ZDOS:84898  sent:0 recv:0
+02/11/2026 13:24:43:  Connections 0 ZDOS:84898  sent:0 recv:0
+02/11/2026 13:34:43: Unloading unused assets
+02/11/2026 13:34:43:  Connections 0 ZDOS:84898  sent:0 recv:0
+Unloading 0 Unused Serialized files (Serialized files now loaded: 18)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 208512.
+Total: 46.032487 ms (FindLiveObjects: 8.449945 ms CreateObjectMapping: 8.260089 ms MarkObjects: 29.214661 ms  DeleteObjects: 0.107402 ms)
+
+02/11/2026 13:43:04: Available space to current user: 16862007296. Saving is blocked if below: 12514504 bytes. Warnings are given if below: 25029008
+02/11/2026 13:43:04: Sending message to save player profiles
+02/11/2026 13:43:04: PrepareSave: clone done in 15ms
+02/11/2026 13:43:04: PrepareSave: ZDOExtraData.PrepareSave done in 16 ms
+02/11/2026 13:43:04: World save writing starting
+02/11/2026 13:43:04: World save writing started
+02/11/2026 13:43:04: Saved 84898 ZDOs
+02/11/2026 13:43:04: World save writing finishing
+02/11/2026 13:43:04: World save writing finished
+02/11/2026 13:43:04: World saved ( 147.432ms )
+02/11/2026 13:43:04: Considering autobackup. World time: 40101.35, short time: 7200, long time: 43200, backup count: 4
+02/11/2026 13:43:04: No autobackup needed yet...
+02/11/2026 13:44:43:  Connections 0 ZDOS:84898  sent:0 recv:0
+02/11/2026 13:54:43:  Connections 0 ZDOS:84898  sent:0 recv:0
+02/11/2026 14:04:43:  Connections 0 ZDOS:84898  sent:0 recv:0
+02/11/2026 14:13:04: Available space to current user: 16862007296. Saving is blocked if below: 12514504 bytes. Warnings are given if below: 25029008
+02/11/2026 14:13:04: Sending message to save player profiles
+02/11/2026 14:13:04: PrepareSave: clone done in 17ms
+02/11/2026 14:13:04: PrepareSave: ZDOExtraData.PrepareSave done in 12 ms
+02/11/2026 14:13:04: World save writing starting
+02/11/2026 14:13:04: World save writing started
+02/11/2026 14:13:04: Saved 84898 ZDOs
+02/11/2026 14:13:04: World save writing finishing
+02/11/2026 14:13:04: World save writing finished
+02/11/2026 14:13:04: World saved ( 128.948ms )
+02/11/2026 14:13:04: Considering autobackup. World time: 41901.37, short time: 7200, long time: 43200, backup count: 4
+02/11/2026 14:13:04: No autobackup needed yet...
+02/11/2026 14:14:43:  Connections 0 ZDOS:84898  sent:0 recv:0
+02/11/2026 14:24:43:  Connections 0 ZDOS:84898  sent:0 recv:0
+02/11/2026 14:34:43: Unloading unused assets
+02/11/2026 14:34:43:  Connections 0 ZDOS:84898  sent:0 recv:0
+Unloading 0 Unused Serialized files (Serialized files now loaded: 18)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 208512.
+Total: 62.857345 ms (FindLiveObjects: 8.447199 ms CreateObjectMapping: 8.006393 ms MarkObjects: 46.303134 ms  DeleteObjects: 0.100208 ms)
+
+02/11/2026 14:43:04: Available space to current user: 16862007296. Saving is blocked if below: 12514504 bytes. Warnings are given if below: 25029008
+02/11/2026 14:43:04: Sending message to save player profiles
+02/11/2026 14:43:04: PrepareSave: clone done in 15ms
+02/11/2026 14:43:04: PrepareSave: ZDOExtraData.PrepareSave done in 13 ms
+02/11/2026 14:43:04: World save writing starting
+02/11/2026 14:43:04: World save writing started
+02/11/2026 14:43:04: Saved 84898 ZDOs
+02/11/2026 14:43:04: World save writing finishing
+02/11/2026 14:43:04: World save writing finished
+02/11/2026 14:43:04: World saved ( 150.929ms )
+02/11/2026 14:43:04: Considering autobackup. World time: 43701.46, short time: 7200, long time: 43200, backup count: 4
+02/11/2026 14:43:04: Overwrite our newest autobackup since the second one isn't so old
+02/11/2026 14:43:04: Replacing backup file: BonkTown_backup_auto-20260211124304
+02/11/2026 14:43:04: Saving backup at: BonkTown_backup_auto-20260211144304
+02/11/2026 14:43:04: World auto backup saved ( 00:00:00.0014550ms )
+02/11/2026 14:44:43:  Connections 0 ZDOS:84898  sent:0 recv:0
+02/11/2026 14:54:43:  Connections 0 ZDOS:84898  sent:0 recv:0
+02/11/2026 15:04:43:  Connections 0 ZDOS:84898  sent:0 recv:0
+02/11/2026 15:13:04: Available space to current user: 16862007296. Saving is blocked if below: 12514504 bytes. Warnings are given if below: 25029008
+02/11/2026 15:13:04: Sending message to save player profiles
+02/11/2026 15:13:04: PrepareSave: clone done in 17ms
+02/11/2026 15:13:04: PrepareSave: ZDOExtraData.PrepareSave done in 13 ms
+02/11/2026 15:13:04: World save writing starting
+02/11/2026 15:13:04: World save writing started
+02/11/2026 15:13:04: Saved 84898 ZDOs
+02/11/2026 15:13:04: World save writing finishing
+02/11/2026 15:13:04: World save writing finished
+02/11/2026 15:13:04: World saved ( 127.66ms )
+02/11/2026 15:13:04: Considering autobackup. World time: 45501.5, short time: 7200, long time: 43200, backup count: 4
+02/11/2026 15:13:04: No autobackup needed yet...
+02/11/2026 15:14:43:  Connections 0 ZDOS:84898  sent:0 recv:0
+02/11/2026 15:24:43:  Connections 0 ZDOS:84898  sent:0 recv:0
+02/11/2026 15:34:43: Unloading unused assets
+02/11/2026 15:34:43:  Connections 0 ZDOS:84898  sent:0 recv:0
+Unloading 0 Unused Serialized files (Serialized files now loaded: 18)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 208512.
+Total: 84.636914 ms (FindLiveObjects: 8.508564 ms CreateObjectMapping: 8.077497 ms MarkObjects: 67.863151 ms  DeleteObjects: 0.187271 ms)
+
+02/11/2026 15:40:42: Game - OnApplicationQuit
+02/11/2026 15:40:42: Available space to current user: 16859090944. Saving is blocked if below: 12514504 bytes. Warnings are given if below: 25029008
+02/11/2026 15:40:42: Shutting down
+02/11/2026 15:40:42: ZNet Shutdown
+02/11/2026 15:40:42: PrepareSave: clone done in 17ms
+02/11/2026 15:40:42: PrepareSave: ZDOExtraData.PrepareSave done in 13 ms
+02/11/2026 15:40:42: World save writing starting
+02/11/2026 15:40:42: World save writing started
+02/11/2026 15:40:42: Saved 84898 ZDOs
+02/11/2026 15:40:42: World save writing finishing
+02/11/2026 15:40:42: World save writing finished
+02/11/2026 15:40:42: World saved ( 150.914ms )
+02/11/2026 15:40:42: Considering autobackup. World time: 47159.18, short time: 7200, long time: 43200, backup count: 4
+02/11/2026 15:40:42: No autobackup needed yet...
+02/11/2026 15:40:42: Unloading unused assets
+Unloading 0 Unused Serialized files (Serialized files now loaded: 18)
+02/11/2026 15:40:42: Sending disconnect msg
+ZPlayFabMatchmaking::UnregisterServer - unregistering server now. State: Uninitialized
+02/11/2026 15:40:42: Disposing socket
+02/11/2026 15:40:42: Stopping listening socket
+02/11/2026 15:40:42: Last socket, unregistering callback
+02/11/2026 15:40:42: ZSteamSocket  UnregisterGlobalCallbacks, existing sockets:0
+02/11/2026 15:40:42: Stopping build thread
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 208512.
+Total: 50.558774 ms (FindLiveObjects: 8.227467 ms CreateObjectMapping: 8.821892 ms MarkObjects: 33.405329 ms  DeleteObjects: 0.103564 ms)
+
+02/11/2026 15:40:45: ZNet OnDestroy
+02/11/2026 15:40:45: Net scene destroyed
+02/11/2026 15:40:45: Steam manager on destroy
+[Physics::Module] Cleanup current backned.
+[Physics::Module] Id: 0xf2b8ea05
+Input System module state changed to: ShutdownInProgress.
+Input System polling thread exited.
+Input System module state changed to: Shutdown.
