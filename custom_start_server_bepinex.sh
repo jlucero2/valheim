@@ -21,7 +21,7 @@ echo "Starting server PRESS CTRL-C to exit"
 # NOTE: Minimum password length is 5 characters & Password cant be in the server name.
 # NOTE: You need to make sure the ports 2456-2458 is being forwarded to your server through your local router & firewall.
 #exec ./valheim_server.x86_64 -name "My server" -port 2456 -world "Dedicated" -password "secret"
-./valheim_server.x86_64 -name "BonkTown" -port 2456 -world "BonkTown" -password "buttstuff42069" -logFile log.txt -savedir /home/steam/valheimsave -public 0 &
+./valheim_server.x86_64 -name "BonkTown" -port 2456 -world "BonkTown" -password "buttstuff42069" -logFile log.txt -savedir /home/steam/valheim/save_data -public 0 &
 server_pid=$!
 
 # Function to catch signals and forward them
