@@ -1,0 +1,219 @@
+Mono path[0] = '/home/steam/valheim/valheim_server_Data/Managed'
+Mono config path = '/home/steam/valheim/valheim_server_Data/MonoBleedingEdge/etc'
+Failed to open plugin: /home/steam/valheim/valheim_server_Data/Plugins/libparty.so
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Initialize engine version: 6000.0.61f1 (74a0adb02c31)
+[Subsystems] Discovering subsystems at path /home/steam/valheim/valheim_server_Data/UnitySubsystems
+Forcing GfxDevice: Null
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+NullGfxDevice:
+    Version:  NULL 1.0 [1.0]
+    Renderer: Null Device
+    Vendor:   Unity Technologies
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.027 seconds
+- Finished resetting the current domain, in  0.001 seconds
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+[Message:   BepInEx] BepInEx 5.4.23.3 - valheim_server (02/08/2026 01:27:46)
+[Message:   BepInEx] User is running BepInExPack Valheim version 5.4.2333 from Thunderstore
+[Info   :   BepInEx] Running under Unity vUnknown (post-2017)
+[Info   :   BepInEx] CLR runtime version: 4.0.30319.42000
+[Info   :   BepInEx] Supports SRE: True
+[Info   :   BepInEx] System platform: Bits64, Linux
+[Message:   BepInEx] Preloader started
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.Preloader 5.4.23.3]
+[Info   :   BepInEx] 1 patcher plugin loaded
+[Info   :   BepInEx] Patching [UnityEngine.CoreModule] with [BepInEx.Chainloader]
+[Message:   BepInEx] Preloader finished
+UnloadTime: 0.160440 ms
+02/11/2026 19:18:58: Set background loading budget to Low
+02/11/2026 19:18:58: Loading first scene!
+02/11/2026 19:18:58: Preferences initialized! Activating first scene!
+Unloading 4 Unused Serialized files (Serialized files now loaded: 8)
+UnloadTime: 0.035056 ms
+02/11/2026 19:18:59: Can't return the graphics config when it's not loaded!
+02/11/2026 19:18:59: 
+02/11/2026 19:18:59: Starting to load scene:start.unity (169d7618616154c03be07e9ad3af5893)
+02/11/2026 19:18:59: Set background loading budget to Normal
+02/11/2026 19:18:59: Loaded localization file #0 - 'localization' language: 'English'
+02/11/2026 19:18:59: Loaded localization file #1 - 'localization_extra' language: 'English'
+02/11/2026 19:18:59: Loaded localization file #2 - 'heightmap_message' language: 'English'
+02/11/2026 19:18:59: Loaded localization file #3 - 'localization_witch' language: 'English'
+02/11/2026 19:18:59: Loaded localization file #4 - 'localization_ashlands' language: 'English'
+02/11/2026 19:18:59: Loaded localization file #5 - 'localization_captions' language: 'English'
+02/11/2026 19:18:59: Loaded localization file #6 - 'localization_combatupdate' language: 'English'
+02/11/2026 19:18:59: Loaded localization file #7 - 'localization_celebrationupdate' language: 'English'
+Unloading 172 unused Assets to reduce memory usage. Loaded Objects now: 2427.
+Total: 1.644304 ms (FindLiveObjects: 0.102863 ms CreateObjectMapping: 0.016181 ms MarkObjects: 1.419141 ms  DeleteObjects: 0.105978 ms)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+AsyncResourceUpload failed.
+AsyncResourceUpload failed.
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+Unloading 2 Unused Serialized files (Serialized files now loaded: 17)
+02/11/2026 19:19:03: Set background loading budget to High
+02/11/2026 19:19:03: GPU Device: 0000:0000 (Unknown)
+02/11/2026 19:19:08: Set background loading budget to Low
+UnloadTime: 7.832326 ms
+HDR Render Texture not supported, disabling HDR on reflection probe.
+02/11/2026 19:19:09: Missing audio clip in music respawn
+OnGUI function detected on MonoBehaviour, but not called, because IMGUI module is stripped.
+02/11/2026 19:19:09: Setting -logfile to: log.txt
+02/11/2026 19:19:09: Setting -savedir to: /home/steam/valheimsave
+02/11/2026 19:19:09: Get create world BonkTown
+02/11/2026 19:19:09: Using environment steamid 892970
+02/11/2026 19:19:09: Using steam APPID:892970
+02/11/2026 19:19:09: Server ID 90071992547409920
+02/11/2026 19:19:09: Authentication:k_ESteamNetworkingAvailability_Waiting
+02/11/2026 19:19:09: Steam game server initialized
+02/11/2026 19:19:09: Valheim version: l-0.221.10 (network version 36)
+02/11/2026 19:19:09: Worldgenerator version setup:2
+02/11/2026 19:19:09: Console: Valheim l-0.221.10 (network version 36)
+02/11/2026 19:19:09: Console: 
+02/11/2026 19:19:09: Console: type "help" - for commands
+02/11/2026 19:19:09: Console: 
+02/11/2026 19:19:09: Render threading mode:SingleThreaded
+OnGUI function detected on MonoBehaviour, but not called, because IMGUI module is stripped.
+02/11/2026 19:19:09: Builder started
+02/11/2026 19:19:09: Sending PlayFab login request (attempt 1)
+02/11/2026 19:19:09: Login postponed until ID has been set.
+The shader Hidden/Dof/DepthOfFieldHdr (UnityEngine.Shader) on effect Main Camera (UnityStandardAssets.ImageEffects.DepthOfField) is not supported on this platform!
+The image effect Main Camera (UnityStandardAssets.ImageEffects.DepthOfField) has been disabled as it's not supported on the current platform.
+The shader Hidden/SunShaftsComposite (UnityEngine.Shader) on effect Main Camera (UnityStandardAssets.ImageEffects.SunShafts) is not supported on this platform!
+The shader Hidden/SimpleClear (UnityEngine.Shader) on effect Main Camera (UnityStandardAssets.ImageEffects.SunShafts) is not supported on this platform!
+The image effect Main Camera (UnityStandardAssets.ImageEffects.SunShafts) has been disabled as it's not supported on the current platform.
+02/11/2026 19:19:09: DLL Not Found: This error usually occurs when you do not have the correct dependencies installed, and will prevent crossplay from working. The dependencies are different depending on which platform you play on.
+ For windows: You need VC++ Redistributables. https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170Linux: You need Pulse Audio. https://learn.microsoft.com/it-it/gaming/playfab/features/multiplayer/networking/linux-specific-requirementsSteam deck: Try using Proton Compatability Layer.Other platforms: If the issue persists, please report it as a bug.
+DllNotFoundException: party assembly:<unknown assembly> type:<unknown type> member:(null)
+  at (wrapper managed-to-native) PartyCSharpSDK.Interop.PFPInterop.PartyInitialize(byte[],PartyCSharpSDK.Interop.PARTY_HANDLE&)
+  at PartyCSharpSDK.SDK.PartyInitialize (System.String titleId, PartyCSharpSDK.PARTY_HANDLE& handle) [0x00006] in <3fe1c61dd78d4a2da22a92605f34ab1e>:0 
+  at PlayFab.Party.PlayFabMultiplayerManager.InitializeImpl () [0x000be] in <3fe1c61dd78d4a2da22a92605f34ab1e>:0 
+  at PlayFab.Party.PlayFabMultiplayerManager._Initialize () [0x0000a] in <3fe1c61dd78d4a2da22a92605f34ab1e>:0 
+  at PlayFab.Party.PlayFabMultiplayerManager.Start () [0x00000] in <3fe1c61dd78d4a2da22a92605f34ab1e>:0 
+
+02/11/2026 19:19:09: Starting music menu
+Unloading 93734 unused Assets to reduce memory usage. Loaded Objects now: 208673.
+Total: 78.900197 ms (FindLiveObjects: 12.694434 ms CreateObjectMapping: 15.273890 ms MarkObjects: 32.903047 ms  DeleteObjects: 18.027944 ms)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+Unloading 3 Unused Serialized files (Serialized files now loaded: 18)
+UnloadTime: 8.326222 ms
+HDR Render Texture not supported, disabling HDR on reflection probe.
+HDR Render Texture not supported, disabling HDR on reflection probe.
+02/11/2026 19:19:09: Audioman already exist, destroying self
+OnGUI function detected on MonoBehaviour, but not called, because IMGUI module is stripped.
+02/11/2026 19:19:09: Console: Valheim l-0.221.10 (network version 36)
+02/11/2026 19:19:09: Console: 
+02/11/2026 19:19:09: Console: type "help" - for commands
+02/11/2026 19:19:09: Console: 
+02/11/2026 19:19:09: isModded: True
+02/11/2026 19:19:09: Zonesystem Awake 52452
+02/11/2026 19:19:09: DungeonDB Awake 52452
+02/11/2026 19:19:09: Worldgenerator version setup:2
+OnGUI function detected on MonoBehaviour, but not called, because IMGUI module is stripped.
+02/11/2026 19:19:11: Console: /w [text] - Whisper
+02/11/2026 19:19:11: Console: /s [text] - Shout
+02/11/2026 19:19:11: Console: /die - Kill yourself
+02/11/2026 19:19:11: Console: /resetspawn - Reset spawn point
+02/11/2026 19:19:11: Console: /[emote]
+02/11/2026 19:19:11: Console: Emotes: wave, sit, challenge, cheer, nonono, thumbsup, point, blowkiss, bow, cower, cry, despair, flex, comehere, headbang, kneel, laugh, roar, shrug, dance, relax, toast, rest, vibe, loveyou
+02/11/2026 19:19:11: Console: 
+Unloading 369 unused Assets to reduce memory usage. Loaded Objects now: 207623.
+Total: 44.806748 ms (FindLiveObjects: 7.609669 ms CreateObjectMapping: 8.839826 ms MarkObjects: 28.060667 ms  DeleteObjects: 0.296285 ms)
+
+02/11/2026 19:19:11: Zonesystem Start 52452
+02/11/2026 19:19:11: Added 3 locations, 0 vegetations, 0 environments, 0 biome env-setups, 0 clutter  from main
+02/11/2026 19:19:11: Added 1 locations, 0 vegetations, 2 environments, 0 biome env-setups, 0 clutter  from main
+02/11/2026 19:19:11: Added 27 locations, 25 vegetations, 5 environments, 1 biome env-setups, 3 clutter  from main
+02/11/2026 19:19:11: Added 4 locations, 0 vegetations, 1 environments, 0 biome env-setups, 0 clutter  from main
+02/11/2026 19:19:11: Added 25 locations, 33 vegetations, 8 environments, 2 biome env-setups, 2 clutter  from main
+02/11/2026 19:19:11: DungeonDB Start 52452
+02/11/2026 19:19:11: ZRpc timeout set to 30s 
+02/11/2026 19:19:11: ZNET START
+02/11/2026 19:19:11: Load world: BonkTown (BonkTown)
+02/11/2026 19:19:11: Loading 84900 zdos, my sessionID: 1501971382, data version: 37
+02/11/2026 19:19:11: Loading in ZDOs
+02/11/2026 19:19:11: Adding to Dictionary
+02/11/2026 19:19:11: Adding to Sectors
+02/11/2026 19:19:11: Connecting Portals, Spawners & ZSyncTransforms
+ConnectSpawners => Connected 20 spawners and 76 'done' spawners.
+02/11/2026 19:19:11: Loaded 11424 locations
+02/11/2026 19:19:11: Unloading unused assets
+Unloading 1 Unused Serialized files (Serialized files now loaded: 18)
+02/11/2026 19:19:11: Registering lobby
+02/11/2026 19:19:11: Opened Steam server
+The shader Hidden/Dof/DepthOfFieldHdr (UnityEngine.Shader) on effect Main Camera (UnityStandardAssets.ImageEffects.DepthOfField) is not supported on this platform!
+The image effect Main Camera (UnityStandardAssets.ImageEffects.DepthOfField) has been disabled as it's not supported on the current platform.
+The shader Hidden/SunShaftsComposite (UnityEngine.Shader) on effect Main Camera (UnityStandardAssets.ImageEffects.SunShafts) is not supported on this platform!
+The shader Hidden/SimpleClear (UnityEngine.Shader) on effect Main Camera (UnityStandardAssets.ImageEffects.SunShafts) is not supported on this platform!
+The image effect Main Camera (UnityStandardAssets.ImageEffects.SunShafts) has been disabled as it's not supported on the current platform.
+02/11/2026 19:19:11: Game server connected
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 210614.
+Total: 58.843950 ms (FindLiveObjects: 8.084520 ms CreateObjectMapping: 11.034961 ms MarkObjects: 39.560321 ms  DeleteObjects: 0.163737 ms)
+
+02/11/2026 19:29:12:  Connections 0 ZDOS:84900  sent:0 recv:0
+02/11/2026 19:29:28: Got status changed msg k_ESteamNetworkingConnectionState_Connecting
+02/11/2026 19:29:28: New connection
+02/11/2026 19:29:28: Accepting connection k_EResultOK
+02/11/2026 19:29:28: Connecting to Steamworks.SteamNetworkingIdentity
+02/11/2026 19:29:28: Got status changed msg k_ESteamNetworkingConnectionState_Connected
+02/11/2026 19:29:28: Connected
+02/11/2026 19:29:28: Got connection SteamID 76561198028550379
+02/11/2026 19:29:28: Got handshake from client 76561198028550379
+02/11/2026 19:29:32: Network version check, their:36, mine:36
+02/11/2026 19:29:32: Server: New peer connected,sending global keys
+02/11/2026 19:29:48: Got character ZDOID from Bonkson : 2608203400:2
+02/11/2026 19:30:23: RPC_Disconnect
+02/11/2026 19:30:23: Destroying abandoned non persistent zdo 2608203400:1 owner 2608203400
+02/11/2026 19:30:23: Destroying abandoned non persistent zdo 2608203400:2 owner 2608203400
+02/11/2026 19:30:23: Destroying abandoned non persistent zdo 2608203400:43 owner 2608203400
+02/11/2026 19:30:23: Destroying abandoned non persistent zdo 2608203400:48 owner 2608203400
+02/11/2026 19:30:23: Disposing socket
+02/11/2026 19:30:23: Closing socket 76561198028550379
+02/11/2026 19:30:23:   send queue size:0
+02/11/2026 19:30:23: Disposing socket
+02/11/2026 19:30:23: Got status changed msg k_ESteamNetworkingConnectionState_ClosedByPeer
+02/11/2026 19:30:23: Socket closed by peer Steamworks.SteamNetConnectionStatusChangedCallback_t
+02/11/2026 19:30:23: Got status changed msg k_ESteamNetworkingConnectionState_None
+02/11/2026 19:31:01: Game - OnApplicationQuit
+02/11/2026 19:31:01: Available space to current user: 16855449600. Saving is blocked if below: 12497444 bytes. Warnings are given if below: 24994888
+02/11/2026 19:31:01: Shutting down
+02/11/2026 19:31:01: ZNet Shutdown
+02/11/2026 19:31:01: PrepareSave: clone done in 16ms
+02/11/2026 19:31:01: PrepareSave: ZDOExtraData.PrepareSave done in 25 ms
+02/11/2026 19:31:01: World save writing starting
+02/11/2026 19:31:01: World save writing started
+02/11/2026 19:31:02: Saved 84900 ZDOs
+02/11/2026 19:31:02: World save writing finishing
+02/11/2026 19:31:02: World save writing finished
+02/11/2026 19:31:02: World saved ( 137.471ms )
+02/11/2026 19:31:02: Considering autobackup. World time: 709.0198, short time: 7200, long time: 43200, backup count: 4
+02/11/2026 19:31:02: Skipping backup. World session not long enough.
+02/11/2026 19:31:02: Unloading unused assets
+Unloading 1 Unused Serialized files (Serialized files now loaded: 158)
+02/11/2026 19:31:02: Sending disconnect msg
+ZPlayFabMatchmaking::UnregisterServer - unregistering server now. State: Uninitialized
+02/11/2026 19:31:02: Disposing socket
+02/11/2026 19:31:02: Stopping listening socket
+02/11/2026 19:31:02: Last socket, unregistering callback
+02/11/2026 19:31:02: ZSteamSocket  UnregisterGlobalCallbacks, existing sockets:0
+02/11/2026 19:31:02: Stopping build thread
+Unloading 2012 unused Assets to reduce memory usage. Loaded Objects now: 496369.
+Total: 139.426292 ms (FindLiveObjects: 19.471802 ms CreateObjectMapping: 27.914703 ms MarkObjects: 90.584697 ms  DeleteObjects: 1.454567 ms)
+
+02/11/2026 19:31:04: Steam manager on destroy
+02/11/2026 19:31:04: ZNet OnDestroy
+02/11/2026 19:31:04: Net scene destroyed
+[Physics::Module] Cleanup current backned.
+[Physics::Module] Id: 0xf2b8ea05
+Input System module state changed to: ShutdownInProgress.
+Input System polling thread exited.
+Input System module state changed to: Shutdown.
